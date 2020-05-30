@@ -8,8 +8,6 @@ featured: true
 hidden: true
 ---
 
-###### Published previously as a Facebook note.
-
 Today, various English translations of the Bible are available, and that is a good thing. One common question thought that comes up from people who want to dig deeper on the Word of God is what translation to use. As such, I decided to write this simple guide.
 
 Why are there many translations in the first place? Can we not settle for one? Well, we start by saying that only the original text is inspired[^1] by God. The moment it is copied or translated, imperfections can be introduced to the text. The copying issue is addressed by scholarship effectively that they say 95-99% of the Bible are preserved from the original text. However, the translation issue is not that easy.
@@ -82,7 +80,8 @@ As I’ve mentioned earlier, I use the ESV as my main translation. But I also ch
 
 Bible translations have never been so much accessible as today. And I’m afraid most Christians are not yet taking advantage of this fact. I can imagine William Tyndale, The Father of the English Bible, being frustrated with us.[^3] As I end, let me quote one of my favorite verses:
 
-> The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law. ([Deuteronomy 29.29][deut])
+> The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law. 
+> ([Deuteronomy 29.29][deut])
 
 I’m amazed that God could have kept His character a secret, yet He revealed Himself to us. He is under no obligation to do so, yet He did it anyway. And we have access to that through a book. Oh, the simplicity! Yet as we get to know Him through His word, we understand that meditating, studying and memorizing His word is actually a means for us to be conformed to the image of His Son.
 
@@ -94,3 +93,5 @@ I’m amazed that God could have kept His character a secret, yet He revealed Hi
 [deut]: https://biblia.com/bible/esv/deuteronomy/29/29
 
 [^3]: Look up William Tyndale's inspiring story [here](https://www.desiringgod.org/messages/always-singing-one-note-a-vernacular-bible).
+
+###### This article was previously published by the author of this site as a Facebook note. Slight changes were done here.
