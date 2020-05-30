@@ -7,11 +7,6 @@ featured_image: assets/images/posts/2019/desk.jpg
 featured: true
 hidden: true
 ---
----
-typora-root-url: ./
----
-
-# A Layman's Guide to Bible Translations 
 
 ###### May 24, 2020 (Published previously as a Facebook note)
 
