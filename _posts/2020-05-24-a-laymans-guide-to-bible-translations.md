@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-###### May 24, 2020 (Published previously as a Facebook note)
+###### Published previously as a Facebook note.
 
 Today, various English translations of the Bible are available, and that is a good thing. One common question thought that comes up from people who want to dig deeper on the Word of God is what translation to use. As such, I decided to write this simple guide.
 
@@ -30,7 +30,7 @@ With this in mind, let’s look at the following Bible translation chart. Then I
 
 ![](/assets/images/posts/2020/bible-translation-chart.jpg)
 
-###### <div style="text-align:center">Photo grabbed from [316publishing](https://i0.wp.com/316publishing.com/wp-content/uploads/2019/04/Bible-Translation-Chart-Final-01.jpg?ssl=1).</div>
+###### Photo grabbed from [316publishing](https://i0.wp.com/316publishing.com/wp-content/uploads/2019/04/Bible-Translation-Chart-Final-01.jpg?ssl=1).
 
 ##### 1. NASB – New American Standard Bible
 
@@ -48,7 +48,7 @@ I decided to lump these two versions as the NKJV is a modern update of KJV. For 
 
 <img src="/assets/images/posts/2020/esv-note.jpg" style="zoom:80%;" />
 
-###### <div style="text-align:center">An ESV note on John 7.53-8.11, alerting the reader of the uninspired passage. Photo taken from YouVersion Bible App.</div>
+###### An ESV note on John 7.53-8.11, alerting the reader of the uninspired passage. Photo taken from YouVersion Bible App.
 
 
 
