@@ -3,7 +3,7 @@ layout: post
 title: "A Layman's Guide to Bible Translations"
 tags: ["Bible Study"]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2020/a-laymans-guide.jpg
+featured_image: assets/images/posts/2020/a-laymans-guide.png
 featured: true
 hidden: true
 ---
