@@ -28,7 +28,7 @@ This is the reason why every translation is imperfect and is a compromise betwee
 
 With this in mind, let’s look at the following Bible translation chart. Then I’ll comment on each translation that I have used.
 
-![](https://i0.wp.com/316publishing.com/wp-content/uploads/2019/04/Bible-Translation-Chart-Final-01.jpg?ssl=1)
+![](/assets/images/posts/2020/bible-translation-chart.jpg)
 
 ###### Photo grabbed from [316publishing](https://i0.wp.com/316publishing.com/wp-content/uploads/2019/04/Bible-Translation-Chart-Final-01.jpg?ssl=1).
 
