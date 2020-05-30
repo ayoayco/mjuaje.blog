@@ -26,9 +26,6 @@ This is the reason why every translation is imperfect and is a compromise betwee
 
 With this in mind, let’s look at the following Bible translation chart. Then I’ll comment on each translation that I have used.
 {% include image-caption.html imageurl="/assets/images/posts/2020/bible-translation-chart.jpg" title="Bible Translation Chart" caption="Photo from 316publishing." %}
-![](/assets/images/posts/2020/bible-translation-chart.jpg)
-
-###### Photo grabbed from [316publishing](https://i0.wp.com/316publishing.com/wp-content/uploads/2019/04/Bible-Translation-Chart-Final-01.jpg?ssl=1).
 
 ##### 1. NASB – New American Standard Bible
 
@@ -43,12 +40,6 @@ In recent years, the ESV has been gaining popularity among evangelicals. Its pub
 I decided to lump these two versions as the NKJV is a modern update of KJV. For a very long time, KJV undoubtedly was the best translation. It stood the test of time as it was first published more than 400 years ago already. Even the culture is affected by this translation, as some of its verses became popular quotes, owing to the beauty of its English. However, it soon became obvious that there needs to be an update of its archaic language. Thus, the NKJV. Now for the most part, NKJV is an accurate translation. One significant issue of both KJV and NKJV though is its Hebrew/Greek basis. I do not want to dive deep into academic discussion here, but to put it simply, scholars have determined that some passages were just added on the original text and therefore are uninspired. Virtually all modern translations exclude these verses/passages (or some translations put a note). The KJV and NKJV, on the other hand, chose to retain these verses. Unfortunately, some groups have turned this around and suggested a conspiracy that other modern translations are distorting the Bible. If you want to know more about this, you can check this [debate](https://www.youtube.com/watch?v=PHR8wJAjNFo&feature=youtu.be). R. C. Sproul used NKJV when he was still alive.
 
 {% include image-caption.html imageurl="/assets/images/posts/2020/esv-note.jpg" title="ESV note" caption="An ESV note on John 7.53-8.11, alerting the reader of the uninspired passage. Photo taken from YouVersion Bible App." %}
-
-<img src="/assets/images/posts/2020/esv-note.jpg" style="zoom:80%;" />
-
-###### An ESV note on John 7.53-8.11, alerting the reader of the uninspired passage. Photo taken from YouVersion Bible App.
-
-
 
 ##### 4. CSB – Christian Standard Bible
 
