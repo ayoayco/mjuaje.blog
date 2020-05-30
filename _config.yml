@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
+  greetings: "Hi! I'm M. J. Uaje, a fellow sojourner eagerly waiting for the revelation of the glory of Christ and hoping to share that anticipation with you."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://royce.netlify.com/
@@ -17,21 +17,14 @@ ga_analytics:
 
 # Contact form setings
 email: mjuaje.blog@gmail.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+contact_page_description: "Want to connect and further discuss any post? Need help in knowing Christ? Want to talk anything under the sun? Send me a message."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'justgoodthemes'
-facebook: 'username'
-github: 'justgoodthemes'
-codepen: 'username'
-dribbble: 'username'
-medium: '@username'
-instagram: 'username'
-pinterest: 'username'
-linkedin: 'username'
-producthunt: '@username'
-quora: 'username'
+twitter: 'uajejoel'
+facebook: 'joeluaje'
+instagram: 'uajejoel'
+goodreads: '111405284-joel-uaje'
 
 # Navigation
 navigation:
