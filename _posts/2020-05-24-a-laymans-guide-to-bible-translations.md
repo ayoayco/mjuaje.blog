@@ -16,11 +16,11 @@ Why are there many translations in the first place? Can we not settle for one? W
 
 There are two philosophies in language translation. To keep things simple, we’ll use the more familiar terms. These two are the word-for-word and the thought-for-thought philosophies. The goal for word-for-word is to translate every word of the original text into an equivalent word or phrase of the receptor language as much as the meaning allows. For thought-for-thought, the goal is to translate the meaning in such a way that the reader could easily understand it. Let’s illustrate it in the case of English-Filipino translation.
 
-> English: He is grieving the loss of his father.
->
-> Word-for-word: Siya ay nagdadalamhati sa pagkawala ng kanyang tatay.
->
-> Thought-for-thought: Nakararamdam siya ng matinding lungkot sa pagkamatay ng kanyang tatay.
+**English:** He is grieving the loss of his father.
+ 
+**Word-for-word:** Siya ay nagdadalamhati sa pagkawala ng kanyang tatay.
+
+**Thought-for-thought:** Nakararamdam siya ng matinding lungkot sa pagkamatay ng kanyang tatay.
 
 In the word-for-word translation, almost every word has been translated to an equivalent Filipino word, even retaining the tense of the verb and the voice of the sentence. However, not all Filipino speaker knows the word “dalamhati”. Also, Filipinos do not normally speak in the active voice in daily conversations. Now, here is where thought-for-thought comes in. In the latter example, “grieving” was translated as “matinding lungkot”, which is understandable virtually to all Filipino speakers. Moreover, it is in the passive voice, which is the more natural way that Filipinos speak. Another point to note is that in the latter example, “pagkawala” was interpreted and translated as “pagkamatay”. This was just a single sentence. Imagine the tension for a whole Bible.
 
@@ -28,7 +28,7 @@ This is the reason why every translation is imperfect and is a compromise betwee
 
 With this in mind, let’s look at the following Bible translation chart. Then I’ll comment on each translation that I have used.
 
-![](/assets/images/posts/2020/bible-translation-chart.jpg)
+![](https://i0.wp.com/316publishing.com/wp-content/uploads/2019/04/Bible-Translation-Chart-Final-01.jpg?ssl=1)
 
 ###### Photo grabbed from [316publishing](https://i0.wp.com/316publishing.com/wp-content/uploads/2019/04/Bible-Translation-Chart-Final-01.jpg?ssl=1).
 
