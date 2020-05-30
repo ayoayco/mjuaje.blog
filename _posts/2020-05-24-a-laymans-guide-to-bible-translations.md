@@ -80,8 +80,7 @@ As I’ve mentioned earlier, I use the ESV as my main translation. But I also ch
 
 Bible translations have never been so much accessible as today. And I’m afraid most Christians are not yet taking advantage of this fact. I can imagine William Tyndale, The Father of the English Bible, being frustrated with us.[^3] As I end, let me quote one of my favorite verses:
 
-> The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law. 
-> [Deuteronomy 29.29][deut]
+> The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law. <cite>[Deuteronomy 29.29][deut]</cite>
 
 I’m amazed that God could have kept His character a secret, yet He revealed Himself to us. He is under no obligation to do so, yet He did it anyway. And we have access to that through a book. Oh, the simplicity! Yet as we get to know Him through His word, we understand that meditating, studying and memorizing His word is actually a means for us to be conformed to the image of His Son.
 
