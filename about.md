@@ -35,4 +35,4 @@ I did not (or have not yet) have seminary education. But just to appeal to some 
 - *The Problem of Pain* by C. S. Lewis
 - *Desiring God* by John Piper
 
-If you want to check my reading history you can go to my [Goodreads account](https://www.goodreads.com/user/show/111405284-joel-uaje).
+If you want to check my reading history, you can go to my [Goodreads account](https://www.goodreads.com/user/show/111405284-joel-uaje).
