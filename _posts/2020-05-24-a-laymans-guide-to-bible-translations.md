@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Layman's Guide to Bible Translations"
-tags: [Bible Study]
+tags: ["Bible Study"]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2019/desk.jpg
 featured: true
