@@ -99,6 +99,8 @@ We also should not just look at this pragmatically, but the means should justify
 
 ###### All Scriptures are quoted from the ESV.
 
+###### Photo from [online.csp.edu](https://online.csp.edu/blog/business/managers-guide-to-conflict-in-the-workplace).
+
 ###### This article was previously published by the author of this site as a Facebook status. Slight changes were done here.
 
 [^1]: I will be bringing up a lot of Bible verses. I've done my best to use them in their proper context. So I then leave it to the reader to verify if this is so.
