@@ -1,6 +1,13 @@
 <figure>
-    <img src="{{ include.imageurl }}" alt="{{ include.title }}"/>
+    <img src="{{ include.imageurl }}" alt="{{ include.title }}" class="center"/>
     {% if include.caption %}
         <figcaption class="caption-text">{{ include.caption }}</figcaption> 
     {% endif %}
 </figure>
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
