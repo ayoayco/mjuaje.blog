@@ -9,11 +9,21 @@ hidden: true
 ---
 Every Christian knows reading the Bible is essential to spiritual growth, but many struggle in actually doing it. This struggle probably stems from factors such as misplaced priorities, difficulty in understanding, and finding it boring. I do agree that there are some parts that are hard to understand, considering that it was written at least two thousand years ago. It is evident that their culture is far from ours today.
 
-Last time, I shared [here](/2-tim-3-16-17) some thoughts on the role of the Scripture in our Christian walk, but today I want to share some practical steps on building the discipline of reading the Bible daily. <br>
+In a previous [article](/2-tim-3-16-17), I shared some thoughts on the role of the Scripture in our Christian walk, but today I want to share some practical steps on building the discipline of reading the Bible daily. <br>
 
 
 
-#### 1. Come up with a regular schedule.
+#### 1. Get a hard copy of the Bible.
+
+Many of us are used to using Bible apps. Nothing really is wrong with that. I myself am using it almost every day. However, for daily reading, I advise that you get a hard copy. This is to limit distractions as there are many studies which show that people have a hard time concentrating when using their phones.
+
+If you get to purchase a beautiful Bible, there is also this excitement that comes from the visual stimulation of it.
+
+On what translation to choose, you can check [this](/a-laymans-guide-to-bible-translations) article.
+
+
+
+#### 2. Come up with a regular schedule.
 
 Reading the Bible involves discipline, and just like any discipline, it becomes easier when done on a regular basis. I advise choosing a time on the morning after waking up, but some people may find it easier to do it at some other time of the day. Though I do not want to be legalistic about it, there are only few people that I know who can do it consistently before sleeping. The reason is obvious: after a day's work, it might be hard to focus just before going to sleep. Nevertheless, the principle remains, i.e. find a suitable regular schedule.
 
@@ -21,23 +31,15 @@ Reading the Bible involves discipline, and just like any discipline, it becomes 
 
 
 
-#### 2. Find a place of solitude.
-
-In this day and age, we are so bombarded with distractions. The way social media, or internet in general, works has altered our attention span. I have talked to a number of single men of around my age who say that they find it hard to focus even for half an hour. So assuming that this is true for the majority, it will take some time for you to maintain the rhythm of communing with God. And a major step towards that is to set everything aside and have an actual *quiet* time with the Lord.
-
-"And rising very early in the morning, while it was still dark, [Jesus] departed and went out to a desolate place, and there he prayed."<br>[Mark 1.35](https://biblia.com/bible/esv/mark/1/35)
-
-
-
 #### 3. Choose a Bible plan.
 
 Decide beforehand on the chronological order of reading. It does not necessarily have to be a literal daily plan. Just determining the order of the books to be read would suffice.
 
-{% include image-caption.html imageurl="/assets/images/posts/2019/bible-order-1.png" title="Bible Plan 1" caption="Bible Plan 1" %}
+{% include image-caption.html imageurl="/assets/images/posts/2019/book-order-1.png" title="Bible Plan 1" caption="Bible Plan 1" %}
 
 If you are like me who belongs to a "Christian family" or someone have been exposed to Christianity for a while now, you may want to check the plan above. The idea is to start from John, arguably the best book of the Bible to start from, then finish all the way to Revelation. After that, I've mixed the remaining Gospels and the Torah (Law), because it might be quite hard to read some of the books of the Law. After that, the Old Testament order follows the order of the Hebrew Bible, for the reason that the Hebrew Bible is arranged according to the literary character as opposed to the topical arrangement of the Bible as we know it.
 
-{% include image-caption.html imageurl="/assets/images/posts/2019/bible-order-1.png" title="Bible Plan 2" caption="Bible Plan 2" %}
+{% include image-caption.html imageurl="/assets/images/posts/2019/book-order-1.png" title="Bible Plan 2" caption="Bible Plan 2" %}
 
 If you however are someone who is new to Christianity, you may consider this sequence instead. The difference is the placement of the some Old Testament (OT) books for background. For the majority, New Testament (NT) is indeed easier to read than the OT. However, the NT frequently refers to the OT since OT was the first revelation. Thus, it makes sense to have some background of the history of Israel before proceeding with the rest of the New Testament.
 
@@ -53,9 +55,15 @@ Before actually starting a book of the Bible, check out some background informat
 
 You can also invest in a study Bible. As of writing, I am using the ESV Study Bible. It is a bit pricy, but it is a good investment. It provides the background on each book as well as some articles on key topics. It also includes verse-by-verse commentary for most of the verses. 
 
+#### 5. Find a place of solitude.
+
+In this day and age, we are so bombarded with distractions. The way social media, or internet in general, works has altered our attention span. I have talked to a number of single men of around my age who say that they find it hard to focus even for half an hour. So assuming that this is true for the majority, it will take some time for you to maintain the rhythm of communing with God. And a major step towards that is to set everything aside and have an actual *quiet* time with the Lord.
+
+"And rising very early in the morning, while it was still dark, [Jesus] departed and went out to a desolate place, and there he prayed."<br>[Mark 1.35](https://biblia.com/bible/esv/mark/1/35)
 
 
-#### 5. Pray before, while and after you read.
+
+#### 6. Pray before, while and after you read.
 
 Praying before reading the Bible is a no-brainer, but sometimes we skip this part. Actually, this is a very important step. The Holy Spirit is the One who illuminates us through His Word. We must humbly ask Him to speak to us and remove any distraction. Ask Him to plant His Word deep in your heart and give you the grace to apply it in daily life.
 
@@ -63,27 +71,17 @@ I also find it a good practice to pray the Scriptures, especially in the poetic 
 
 
 
-#### 6. Look up the meaning of obscure verses.
-
-For sure, you will get to some verses which are hard to understand. You can use [Got Questions](https://www.gotquestions.org/) for this, or [Desiring God](https://www.desiringgod.org/). We are blessed to be in a time when abundant resources are available online, so we really have no excuse.
-
-
-
-#### 7. Get a hard copy of the Bible.
-
-Many of us are used to using Bible apps. Nothing really is wrong with that. I myself am using it almost every day. However, for daily reading, I advise that you get a hard copy. This is to limit distractions as there are many studies which show that people have a hard time concentrating when using their phones.
-
-If you get to purchase a beautiful Bible, there is also this excitement that comes from the visual stimulation of it.
-
-On what translation to choose, you can check [this](*/a-laymans-guide-to-bible-translations) article.
-
-
-
-#### 8. Read the verses aloud.
+#### 7. Read the verses aloud.
 
 If it is possible, read the verses aloud to yourself. I do this alternately with reading it silently. I observe that I avoid distractions this way. You can also take advantage of the audio Bible from the YouVersion app and listen to it instead. It depends on what works for you.
 
 "This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it."<br>[Joshua 1.8a](https://biblia.com/bible/esv/joshua/1/8)
+
+
+
+#### 8. Look up the meaning of obscure verses.
+
+For sure, you will get to some verses which are hard to understand. You can use [Got Questions](https://www.gotquestions.org/) for this, or [Desiring God](https://www.desiringgod.org/). We are blessed to be in a time when abundant resources are available online, so we really have no excuse.
 
 
 
