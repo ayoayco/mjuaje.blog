@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Practical Steps on Building the Disciple of Daily Bible Reading"
+tags: ["Bible Study"]
+featured_image_thumbnail:
+featured_image: assets/images/posts/2019/practical-steps.jpg
+featured: true
+hidden: true
+---
 Every Christian knows reading the Bible is essential to spiritual growth, but many struggle in actually doing it. This struggle probably stems from factors such as misplaced priorities, difficulty in understanding, and finding it boring. I do agree that there are some parts that are hard to understand, considering that it was written at least two thousand years ago. It is evident that their culture is far from ours today.
 
 Last time, I shared [here](*/2-tim-3-16-17) some thoughts on the role of the Scripture in our Christian walk, but today I want to share some practical steps on building the discipline of reading the Bible daily. <br>
@@ -24,7 +33,11 @@ In this day and age, we are so bombarded with distractions. The way social media
 
 Decide beforehand on the chronological order of reading. It does not necessarily have to be a literal daily plan. Just determining the order of the books to be read would suffice.
 
-If you are like me who belongs to a "Christian family" or someone have been exposed to Christianity for a while now, you may want to check the plan below. The idea is to start from John, arguably the best book of the Bible to start from, then finish all the way to Revelation. After that, I've mixed the remaining Gospels and the Torah (Law), because it might be quite hard to read some of the books of the Law. After that, the Old Testament order follows the order of the Hebrew Bible, for the reason that the Hebrew Bible is arranged according to the literary character as opposed to the topical arrangement of the Bible as we know it.
+{% include image-caption.html imageurl="/assets/images/posts/2019/bible-order-1.png" title="Bible Plan 1" caption="Bible Plan 1" %}
+
+If you are like me who belongs to a "Christian family" or someone have been exposed to Christianity for a while now, you may want to check the plan above. The idea is to start from John, arguably the best book of the Bible to start from, then finish all the way to Revelation. After that, I've mixed the remaining Gospels and the Torah (Law), because it might be quite hard to read some of the books of the Law. After that, the Old Testament order follows the order of the Hebrew Bible, for the reason that the Hebrew Bible is arranged according to the literary character as opposed to the topical arrangement of the Bible as we know it.
+
+{% include image-caption.html imageurl="/assets/images/posts/2019/bible-order-1.png" title="Bible Plan 2" caption="Bible Plan 2" %}
 
 If you however are someone who is new to Christianity, you may consider this sequence instead. The difference is the placement of the some Old Testament (OT) books for background. For the majority, New Testament (NT) is indeed easier to read than the OT. However, the NT frequently refers to the OT since OT was the first revelation. Thus, it makes sense to have some background of the history of Israel before proceeding with the rest of the New Testament.
 
