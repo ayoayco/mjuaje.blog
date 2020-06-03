@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Practical Steps on Building the Disciple of Daily Bible Reading"
-tags: ["Bible Study"]
+title: 'Practical Steps on Building the Disciple of Daily Bible Reading'
+tags: ['Bible Study']
 featured_image_thumbnail:
 featured_image: assets/images/posts/2019/practical-steps.jpg
 featured: true
