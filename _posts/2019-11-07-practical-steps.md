@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Practical Steps on Building the Disciple of Daily Bible Reading'
+title: 'Practical Steps on Building the Discipline of Daily Bible Reading'
 tags: ['Bible Study']
 featured_image_thumbnail:
 featured_image: assets/images/posts/2019/practical-steps.jpg
@@ -9,7 +9,7 @@ hidden: true
 ---
 Every Christian knows reading the Bible is essential to spiritual growth, but many struggle in actually doing it. This struggle probably stems from factors such as misplaced priorities, difficulty in understanding, and finding it boring. I do agree that there are some parts that are hard to understand, considering that it was written at least two thousand years ago. It is evident that their culture is far from ours today.
 
-Last time, I shared [here](*/2-tim-3-16-17) some thoughts on the role of the Scripture in our Christian walk, but today I want to share some practical steps on building the discipline of reading the Bible daily. <br>
+Last time, I shared [here](/2-tim-3-16-17) some thoughts on the role of the Scripture in our Christian walk, but today I want to share some practical steps on building the discipline of reading the Bible daily. <br>
 
 
 
