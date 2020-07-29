@@ -10,6 +10,8 @@ hidden: true
 
 There have been much discussion about government policies and actions, and the attitude of the Christian. A quick scroll on my news feed reveals two sides (there may be more but in general I observe two): on one side, those who want to submit to the government in light of Romans 13 and similar texts. These Christians emphasize living peaceably and spreading faith over fear, or something like that. On the other side, there are those who want to stand up against the injustice that’s happening. They also support their argument using Scriptures. Since the Bible does not contradict itself, how do we reconcile these truths? And how do we act ethically and honorably before our Lord? Let us go back to what the Scriptures say.[^1]
 
+<!--more-->
+
 #### 1. Is God in control over everything; that is, is He sovereign?
 
 Unequivocally, yes.
