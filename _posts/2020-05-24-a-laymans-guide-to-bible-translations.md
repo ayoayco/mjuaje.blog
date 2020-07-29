@@ -10,6 +10,8 @@ hidden: true
 
 Today, various English translations of the Bible are available, and that is a good thing. One common question thought that comes up from people who want to dig deeper on the Word of God is what translation to use. As such, I decided to write this simple guide.
 
+<!--more-->
+
 Why are there many translations in the first place? Can we not settle for one? Well, we start by saying that only the original text is inspired[^1] by God. The moment it is copied or translated, imperfections can be introduced to the text. The copying issue is addressed by scholarship effectively that they say 95-99% of the Bible are preserved from the original text. However, the translation issue is not that easy.
 
 There are two philosophies in language translation. To keep things simple, we’ll use the more familiar terms. These two are the word-for-word and the thought-for-thought philosophies. The goal for word-for-word is to translate every word of the original text into an equivalent word or phrase of the receptor language as much as the meaning allows. For thought-for-thought, the goal is to translate the meaning in such a way that the reader could easily understand it. Let’s illustrate it in the case of English-Filipino translation.
