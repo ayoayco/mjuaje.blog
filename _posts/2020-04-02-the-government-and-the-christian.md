@@ -101,7 +101,7 @@ We also should not just look at this pragmatically, but the means should justify
 
 ###### All Scriptures are quoted from the ESV.
 
-###### Photo from [online.csp.edu](https://online.csp.edu/blog/business/managers-guide-to-conflict-in-the-workplace).
+###### Photo credits to David Photography.
 
 ###### This article was previously published by the author of this site as a Facebook status. Slight changes were done here.
 
