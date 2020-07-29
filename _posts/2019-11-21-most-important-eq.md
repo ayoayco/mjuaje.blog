@@ -9,6 +9,8 @@ hidden: true
 ---
 Throughout the history of mankind, there have been equations that changed the world. Newton’s law of universal gravitation discovered gravity. Today, it is a trivial knowledge, but then it was astonishing that he was able to quantify the attraction of cosmic bodies. The discovery of the square root of negative numbers opened a universe of imaginary numbers. And of course, Einstein’s mass-energy equivalence demonstrated the relationship of these two quantities and opened the physics of relativity.
 
+<!--more-->
+
 These are just some of the most important equations in the history of mankind. True enough, these equations made an impact to science and mathematics. But how about an equation that transcends the domain of knowledge and technology, and impacts eternity?
 
 ##### Faith in Jesus + Nothing = Salvation → Good Works
