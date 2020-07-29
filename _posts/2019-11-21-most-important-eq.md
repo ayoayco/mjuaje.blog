@@ -67,6 +67,5 @@ Here in the death of Christ I live."<br>
 [^1]: [Isaiah 64.6](https://biblia.com/bible/niv/isaiah/64/6): literally 'menstrual cloth'
 [^2]: [Romans 3.23](https://biblia.com/bible/esv/romans/3/23)
 
-###### Cover photo from [popoptiq.com](https://www.popoptiq.com/wp-content/uploads/2018/08/equations-lead-image-081618-min.webp).
 
 ###### This article was previously published by the author of this site as a Facebook status. Slight changes were done here.
