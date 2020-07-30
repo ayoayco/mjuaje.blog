@@ -94,8 +94,6 @@ It is indeed not easy to read the Bible every day, that is why we need to ask Go
 
 ###### All Scriptures are quoted from the ESV.
 
-###### Photo from [Amazon Web Service](https://mohler.s3.amazonaws.com/uploads/2016/09/iStock_45271310_MED.jpg).
-
 ###### This article was previously published by the author of this site as a Facebook note. Revised June 2, 2020.
 
 [^1]: The BibleProject, for the most part, has sound explanations. However, I object to their view of atonement and hell. So I am recommending it with some reservations. As always, practice discernment just like the noble Bereans.
