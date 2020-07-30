@@ -4,8 +4,6 @@ title: "Gospel: The Life of Jesus"
 tags: [Gospel, Easter, Evangelism]
 featured_image_thumbnail: assets/images/posts/2020/life-jesus.jpg
 featured_image: assets/images/posts/2020/life-jesus.jpg
-featured: true
-hidden: true
 ---
 
 As we are commemorating the holy week, I together with some friends, came up with a little writing project that will discuss the gospel message encompassing the life, death and resurrection of the Lord Jesus Christ, as well as responding in faith and repentance. We will be posting an article daily for four days tackling these subjects. Our hope is to present the good news of Christ’s work to anyone who wants to listen. “He who has ears to hear, let him hear.”[^1]<br><br>
