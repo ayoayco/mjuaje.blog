@@ -4,8 +4,6 @@ title: "The Most Important Equation"
 tags: [Gospel, Evangelism]
 featured_image_thumbnail: assets/images/posts/2020/equation.jpg
 featured_image: assets/images/posts/2020/equation.jpg
-featured: true
-hidden: true
 ---
 Throughout the history of mankind, there have been equations that changed the world. Newton’s law of universal gravitation discovered gravity. Today, it is a trivial knowledge, but then it was astonishing that he was able to quantify the attraction of cosmic bodies. The discovery of the square root of negative numbers opened a universe of imaginary numbers. And of course, Einstein’s mass-energy equivalence demonstrated the relationship of these two quantities and opened the physics of relativity.
 
