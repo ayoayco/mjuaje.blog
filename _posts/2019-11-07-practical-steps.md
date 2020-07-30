@@ -2,7 +2,7 @@
 layout: post
 title: 'Practical Steps on Building the Discipline of Daily Bible Reading'
 tags: ['Bible Study']
-featured_image_thumbnail:
+featured_image_thumbnail: assets/images/posts/2019/practical-steps.jpg
 featured_image: assets/images/posts/2019/practical-steps.jpg
 featured: true
 hidden: true
