@@ -2,7 +2,7 @@
 layout: post
 title: "The Government and the Christian"
 tags: [Government, "Social Justice"]
-featured_image_thumbnail:
+featured_image_thumbnail: assets/images/posts/2020/government.png
 featured_image: assets/images/posts/2020/government.png
 featured: true
 hidden: true
