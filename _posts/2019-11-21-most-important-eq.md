@@ -2,7 +2,7 @@
 layout: post
 title: "The Most Important Equation"
 tags: [Gospel, Evangelism]
-featured_image_thumbnail:
+featured_image_thumbnail: assets/images/posts/2020/equation.jpg
 featured_image: assets/images/posts/2020/equation.jpg
 featured: true
 hidden: true
