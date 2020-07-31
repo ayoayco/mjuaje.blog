@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gospel: The Life of Jesus"
-tags: [Gospel, Easter, Evangelism]
+tags: [Gospel, "Holy Week", Evangelism]
 featured_image_thumbnail: assets/images/posts/2020/life-jesus.jpg
 featured_image: assets/images/posts/2020/life-jesus.jpg
 featured: true
