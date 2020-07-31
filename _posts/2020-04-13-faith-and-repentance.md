@@ -7,7 +7,7 @@ featured_image: assets/images/posts/2020/faith-repentance.jpg
 
 ---
 
-##### By L. A, Abilar
+##### By L. A. Abilar
 
 You have probably heard people shouting or preaching the words “Repent!” and “Believe in the LORD Jesus Christ!” Or probably a shoutout or post in the digital realm. There are an awful lot of posts on social media of the same appeals. But you were not attracted by their plea nor their “threats” about rotting in hell. Or were you? But where did it all start? Why ask people to repent and believe?<br><br>
 
