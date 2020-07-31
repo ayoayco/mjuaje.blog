@@ -51,11 +51,11 @@ Finally, Christ became human to act as the mediator between God and men. Wayne G
 
 ###### This post is part of a four-part series on the gospel message. See the link for the other article/s below:
 
-Gospel: The Death of Jesus
+[Gospel: The Death of Jesus](/death-of-jesus)
 
-Gospel: The Resurrection of Jesus
+[Gospel: The Resurrection of Jesus](/resurrection-of-jesus)
 
-Gospel: Faith and Repentance
+[Gospel: Faith and Repentance](/faith-and-repentance)
 
 
 
