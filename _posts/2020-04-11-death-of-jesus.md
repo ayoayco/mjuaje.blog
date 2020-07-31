@@ -66,7 +66,7 @@ This is the amazing love that God wants to bestow to us. It is the grace that we
 
 ###### Unless otherwise specified, all Scriptures are taken from the NASB95.
 
-###### This post is part of a four-part series on the gospel message. See the link for the other article/s below:
+###### This post is part of a four-part series on the gospel message. See the link for the other articles below:
 
 [Gospel: The Life of Jesus](/life-of-jesus)
 
