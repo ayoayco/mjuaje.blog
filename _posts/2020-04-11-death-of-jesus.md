@@ -57,7 +57,6 @@ Finally, the death of Jesus Christ demonstrates God’s law. It does not nullify
 
 This is the amazing love that God wants to bestow to us. It is the grace that we don’t deserve. This is the hope that Christianity offers to the world and I hope you may seek, find and possess today.
 
-(All the credits of the photo belongs to the owner)
 
 [^1]: Lewis, C. S. *Miracles*. Harpercollins Publishers, 2012.
 [^2]: “Did Jesus Exist? Searching for Evidence Beyond the Bible.” *Biblical Archaeology Society*, 14 Nov. 2019, www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/did-jesus-exist/.
