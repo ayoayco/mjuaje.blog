@@ -7,7 +7,7 @@ featured_image: assets/images/posts/2020/resurrection-jesus.jpg
 
 ---
 
-##### By Jonathan Rico.
+##### By Jonathan Rico
 
 
 
@@ -28,15 +28,15 @@ After David killed Goliath, the Philistine army fled as fast as they can when th
 
 
 But how is Jesus’ resurrection different from the other resurrections?
-Here are some of the biblical accounts of resurrections:
-• Prophet Elijah raised a widow’s son to life in Zarephath.
-• Prophet Elisha raised a widow’s son to life in Shunem.
-• A man was raised to life by God when his body touched the bones of Elisha.
-• Jesus raised a widow’s son to life in Nain.
-• Jesus raised the daughter of Jairus, a synagogue ruler, to life.
-• Jesus raised Lazarus in Bethany to life.
-• Peter raised a disciple named Tabitha to life in Joppa.
-• Paul raised Eutychus (the young man who fell asleep and fell from the 3rd floor) to life.
+Here are some of the biblical accounts of resurrections:<br>
+• Prophet Elijah raised a widow’s son to life in Zarephath.<br>
+• Prophet Elisha raised a widow’s son to life in Shunem.<br>
+• A man was raised to life by God when his body touched the bones of Elisha.<br>
+• Jesus raised a widow’s son to life in Nain.<br>
+• Jesus raised the daughter of Jairus, a synagogue ruler, to life.<br>
+• Jesus raised Lazarus in Bethany to life.<br>
+• Peter raised a disciple named Tabitha to life in Joppa.<br>
+• Paul raised Eutychus (the young man who fell asleep and fell from the 3rd floor) to life.<br>
 • Several bodies of holy people who died were raised to life by God after Jesus’ crucifixion.
 
 
