@@ -28,7 +28,7 @@ After David killed Goliath, the Philistine army fled as fast as they can when th
 
 
 But how is Jesus’ resurrection different from the other resurrections?
-Here are some of the biblical accounts of resurrections:<br>
+Here are some of the biblical accounts of resurrections:<br><br>
 • Prophet Elijah raised a widow’s son to life in Zarephath.<br>
 • Prophet Elisha raised a widow’s son to life in Shunem.<br>
 • A man was raised to life by God when his body touched the bones of Elisha.<br>
