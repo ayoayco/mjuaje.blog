@@ -4,8 +4,6 @@ title: "The Theology of Sin (Part 2)"
 tags: ["Sin", "Sanctification", "Holy Spirit"]
 featured_image_thumbnail: assets/images/posts/2020/theology-of-sin.jpg
 featured_image: assets/images/posts/2020/theology-of-sin.jpg
-featured: true
-hidden: true
 ---
 
 In the [first](/theology-of-sin-1) part of this two-part blog, we looked at how serious the sin of Adam is, and how we continue to enact that sin in our lives. We also argued that because of this humanity has long lost its freedom to choose God, but rather became slaves to sin. We ended by looking at Exodus 34.6-7, where God has revealed his character and his bestowing forgiveness on us. Yet, in the same passage, we see God maintaining his justice by punishing the guilty. How can God both be forgiving and just?<br><br>
