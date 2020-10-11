@@ -14,7 +14,7 @@ One day, when I was still a student in UPLB, I was approached by a group of peop
 
 Now of course as an Evangelical, I would have easily dismissed them because I believe that the one true God is Trinitarian: one Being in three Persons. The problem was they kept bringing up verses which apparently contradict the doctrine of the Trinity. One verse they brought up is that Christ is the firstborn of creation[^2]. Being the firstborn, they argued, Christ was himself created and therefore could have not been Yahweh himself. I was dumbfounded. They were making sense. At the end, I almost wanted to appeal to tradition. "This is what we were taught!", I thought to myself. Fast forward to today, I now know how to answer them. But that was a hard lesson for me. 
 
-This is a clear example why theology is important to a disciple of Jesus. In this blog post, I'll share three reasons why should we study theology:<br><br>
+This is a clear example why theology is important to a disciple of Jesus. In this blog post, I'll share three reasons why we should study theology:<br><br>
 
 ### 1. Theology equips us in the defense of the faith.
 
@@ -32,19 +32,19 @@ In our time, when there is an attack to the nature of truth, when people do not 
 
 ### 2. Theology informs practical living.
 
-One of the lies of our age is that doctrines are not important, that it is confined to intellectual discussion while the layman is concerned with practical living. We loathe sermons that do not have a 1-2-3 structure, and we love it when preachers share practical points, which most often are teachings grounded not on the Bible but on their experience. I've seen it many times: youth groups preferring gimmicks over biblical exposition, single professionals interested how they can increase their wealth or how they can enter into "biblical" dating without the due diligence of drawing applications from biblical texts.
+One of the lies of our age is that doctrines are not important, that it is confined to intellectual discussion while the layman is concerned with practical living. We loathe sermons that do not have a 1-2-3 structure, and we love it when preachers share practical points, which sometimes are teachings grounded not on the Bible but on their experience. I've seen it many times: youth groups preferring gimmicks over biblical exposition, single professionals interested how they can increase their wealth or how they can enter into "biblical" dating without the due diligence of drawing applications from biblical texts.
 
-I'm not trying to say that we should not encourage applications. Far from it. After all we are called to be doers of the word, not just hearers.[^6]But what I'm getting at here is the loss of confidence in the God-breathed Word and a shift of interest in moralistic therepeutic "preaching", psychology, gimmicks or whatnot.
+I'm not trying to say that we should not encourage applications. Far from it. After all we are called to be doers of the word, not just hearers.[^6]But what I'm getting at here is the loss of confidence in the God-breathed Word and a shift of interest in moralistic-therepeutic "preaching", psychology, gimmicks or whatnot.
 
 Lest I totally drift in the criticism of our time, let me illustrate how careful study of theology is practical.
 
 Suppose a godly man wants to pursue a godly woman, what should he do before laying down his intention? How does he receive a confirmation from the Lord that that certain woman that she likes is *God's will* for him? Prayer, of course, is a no-brainer as well as godly counsel. But should he wait for a "still small voice" from the Lord? Or maybe should he wait until he accidentally reads a passage about marriage? But what if he intentionally looks for those passages, wouldn't that mean that he is manipulating God? On the other hand, after considering her character, should he just go for it and take her permission as God's answer?
 
-Or suppose a mother becomes sick, how should her daughter pray for her? Should she *claim* God's healing since by Christ's stripes we are healed?[^7] Should she cast out the sickness since all authority has been given to Christ?[^8] What if the Lord would not heal her? Should she blame her mother's lack of faith? Or should she rather appeal to God's providence, that if it still depends on the God's purposes if she would be healed or not?
+Or suppose a mother becomes sick, how should her daughter pray for her? Should she *claim* God's healing since by Christ's stripes we are healed?[^7] Should she cast out the sickness since all authority has been given to Christ?[^8] What if the Lord would not heal her? Should she blame her mother's lack of faith? Or should she rather appeal to God's providence that it still depends on God's purposes whether she would be healed or not?
 
-Or suppose a disciple wants to evangelize a friend, what method should he use? Should he share only God's love and grace so that the message would be agreeable to his friend? Or should he start by warning him of the coming wrath of God to unbelievers? Should he bring him to a lively church where Sunday services look like musicals? Or should he bring him to a church that preaches plain sermons that exposits the Bible? 
+Or suppose a disciple wants to evangelize a friend, what method should he use? Should he share only God's love and grace so that the message would be agreeable to his friend? Or should he start by warning him of the coming wrath of God to unbelievers? Should he bring him to a lively church where Sunday services look like musicals? Or should he bring him to a church that preaches plain sermons that exposit the Bible? 
 
-Or suppose your love for God is becoming lukewarm that you now live in unrepentant sin. Should you hold on to the sinner's prayer you uttered when you were in a youth camp and conclude '*once saved, always saved*'? Or should you examine if your faith is real[^9] and is working through love?[^10]
+Or suppose your love for God is becoming lukewarm that you now live in unrepentant sin. Should you hold on to the sinner's prayer you uttered when you were in a youth camp and conclude '*once saved, always saved*'? Or should you instead examine if your faith is real[^9] and is working through love?[^10]
 
 The answers to these questions arise from careful study of the Bible which inevitably involves theology.<br><br>
 
@@ -60,7 +60,7 @@ Knowing God is so important that it is the only thing we are allowed to be boast
 
 I laid out three reasons why I believe theology, the study of God himself, is essential to a disciple of Jesus. In the current climate of our time, there seems to be a growing interest in theology, maybe a reaction to decades' resistance to intellectualism in the churches. I am hoping this climate would continue and that more Christians would become serious students of the Word. Let me end with this verse:
 
-"And this is eternal life, that they know you, the only true God, and Jesus Christ whom you have sent."<br>John 17.3
+> "And this is eternal life, that they know you, the only true God, and Jesus Christ whom you have sent."<br>John 17.3
 
 [^1]: Collective term for "Born-again" Christians.
 [^2]: Colossians 1.15
