@@ -58,7 +58,7 @@ Knowing God is so important that it is the only thing we are allowed to be boast
 
 #### Conclusion
 
-Let me end with a question and a Scripture. If we find it hard to enjoy God and the things of God in this world, what makes us think that we will enjoy heaven?
+I laid out three reasons why I believe theology, the study of God himself, is essential to a disciple of Jesus. In the current climate of our time, there seems to be a growing interest in theology, maybe a reaction to decades' resistance to intellectualism in the churches. I am hoping this climate would continue and that more Christians would become serious students of the Word. Let me end with this verse:
 
 "And this is eternal life, that they know you, the only true God, and Jesus Christ whom you have sent."<br>John 17.3
 
