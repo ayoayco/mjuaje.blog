@@ -26,7 +26,7 @@ no one understands;<br>&nbsp;&nbsp;&nbsp;&nbsp;
 no one seeks for God.<br>
 All have turned aside; together they have become worthless;<br>&nbsp;&nbsp;&nbsp;&nbsp;
 no one does good,<br>&nbsp;&nbsp;&nbsp;&nbsp;
-not even one.”<br>[Romans 3.10b-12](https://biblia.com/bible/esv/romans/3/10-12)
+not even one.”<br>Romans 3.10b-12
 
 'This is outrageous! How can this be true? I see people doing good to others, even if they are not Christians. In fact, Christians are far worse!' You can say these things. I might even concur to some degree. But let me refute the first claim which is non-Christians doing good. Are people really capable of doing good? In some sense yes, if the standard is ourselves. But the ultimate moral standard is not us but God.
 
@@ -40,13 +40,13 @@ What is our hope then? Fortunately, the verse did not end there. It continues, �
 
 At this point, I have to bring you back to a part of the original equation. Faith in Jesus + Nothing = Salvation. What does this even mean? The Bible says,
 
-“For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.”<br>[Ephesians 2.8-9](https://biblia.com/bible/esv/ephesians/2/8-9)
+“For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.”<br>Ephesians 2.8-9
 
 Clearly, it says we are saved by grace through faith. We put our faith **in Christ alone** and trust that He holds our salvation. This is a gift from God, which means we did not work for it. Because if we do work for it, we can’t earn it.
 
 Where do ‘good works’ place in Christianity then? Let us continue the last verse mentioned.
 
-“For we are [God’s] workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.”<br>[Ephesians 2.10](https://biblia.com/bible/esv/ephesians/2/10)
+“For we are [God’s] workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.”<br>Ephesians 2.10
 
 So, yes, we are not saved by good works. But it a **natural consequence** of faith in Christ. Christians do good works not to earn salvation, but because of salvation. That is a world of difference.
 
@@ -62,8 +62,8 @@ For every sin on Him was laid<br>
 Here in the death of Christ I live."<br>
 *In Christ Alone - Keith Getty / Stuart Townend*
 
-[^1]: [Isaiah 64.6](https://biblia.com/bible/niv/isaiah/64/6): literally 'menstrual cloth'
-[^2]: [Romans 3.23](https://biblia.com/bible/esv/romans/3/23)
+[^1]: Isaiah 64.6: literally 'menstrual cloth'
+[^2]: Romans 3.23
 
 
 ###### This article was previously published by the author of this site as a Facebook status. Slight changes were done here.
