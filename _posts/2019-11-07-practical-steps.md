@@ -27,7 +27,7 @@ On what translation to choose, you can check [this](/a-laymans-guide-to-bible-tr
 
 Reading the Bible involves discipline, and just like any discipline, it becomes easier when done on a regular basis. I advise choosing a time on the morning after waking up, but some people may find it easier to do it at some other time of the day. Though I do not want to be legalistic about it, there are only few people that I know who can do it consistently before sleeping. The reason is obvious: after a day's work, it might be hard to focus just before going to sleep. Nevertheless, the principle remains, i.e. find a suitable regular schedule.
 
-"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it."<br>[Joshua 1.8a](https://biblia.com/bible/esv/joshua/1/8)
+"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it."<br>Joshua 1.8a
 
 
 
@@ -59,7 +59,7 @@ You can also invest in a study Bible. As of writing, I am using the ESV Study Bi
 
 In this day and age, we are so bombarded with distractions. The way social media, or internet in general, works has altered our attention span. I have talked to a number of single men around my age who say that they find it hard to focus even for half an hour. So assuming that this is true for many, it will take some time for you to maintain the rhythm of communing with God. And a major step towards that is to set everything aside and have an actual *quiet* time with the Lord.
 
-"And rising very early in the morning, while it was still dark, [Jesus] departed and went out to a desolate place, and there he prayed."<br>[Mark 1.35](https://biblia.com/bible/esv/mark/1/35)
+"And rising very early in the morning, while it was still dark, [Jesus] departed and went out to a desolate place, and there he prayed."<br>Mark 1.35
 
 
 
@@ -69,8 +69,7 @@ Praying before reading the Bible is a no-brainer, but sometimes we skip this par
 
 I also find it a good practice to pray the Scriptures, especially for the poetic books. There are many verses, say from the psalmists, that I simply have no power to manufacture on my own. How can I be broken before the Lord?[^2] How could I learn to fear Him?[^3]  How can I incline my ears to listen to Him?[^4] These are simply things that only the Lord can accomplish.
 
-"If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him."<br>
-[James 1.5](https//:biblia.com/bible/esv/james/1/5)
+"If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him."<br>James 1.5
 
 
 
@@ -78,7 +77,7 @@ I also find it a good practice to pray the Scriptures, especially for the poetic
 
 If it is possible, read the verses aloud to yourself. I do this alternately with reading it silently. I observe that I avoid distractions this way. You can also take advantage of the audio Bible from the YouVersion app and listen to it instead. It depends on what works for you.
 
-"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it."<br>[Joshua 1.8a](https://biblia.com/bible/esv/joshua/1/8)
+"This Book of the Law shall not depart from your mouth, but you shall meditate on it day and night, so that you may be careful to do according to all that is written in it."<br>Joshua 1.8a
 
 
 
@@ -97,9 +96,9 @@ It is indeed not easy to read the Bible every day, that is why we need to ask Go
 ###### This article was previously published by the author of this site as a Facebook note. Revised June 2, 2020.
 
 [^1]: The BibleProject, for the most part, has sound explanations. However, I object to their view of atonement and hell. So I am recommending it with some reservations. As always, practice discernment just like the noble Bereans.
-[^2]: [Psalm 51.17](https://biblia.com/bible/esv/psalm/51/17)
-[^3]: [Psalm 128.1](https://biblia.com/bible/esv/psalm/128/1)
-[^4]: [Isaiah 55.3](https://biblia.com/bible/esv/isaiah/55/3)
-[^5]: [Psalm 119.97](https://biblia.com/bible/esv/psalm/119/97)
-[^6]: [Romans 10.17](https://biblia.com/bible/esv/romans/10/17)
-[^7]: [2 Peter 2.2-3](https://biblia.com/bible/esv/2-peter/2/2-3)
+[^2]: Psalm 51.17
+[^3]: Psalm 128.1
+[^4]: Isaiah 55.3
+[^5]: Psalm 119.97
+[^6]: Romans 10.17
+[^7]: 2 Peter 2.2-3
