@@ -61,10 +61,10 @@ I am aware that some of us may have lost a loved one during this season of COVID
 
 
 
-[^1]: [1 Corinthians 15.14](https://biblia.com/bible/niv/1-corinthians/15/14)
-[^2]: [Acts 2.24](https://biblia.com/bible/niv/acts/2/24)
-[^3]: [John 11.25-26](https://biblia.com/bible/niv/john/11/25-26)
-[^4]: [Matthew 12.40](https://biblia.com/bible/niv/matthew/12/40)
+[^1]: 1 Corinthians 15.14
+[^2]: Acts 2.24
+[^3]: John 11.25-26
+[^4]: Matthew 12.40
 
 
 
