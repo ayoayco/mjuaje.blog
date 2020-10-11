@@ -59,12 +59,12 @@ Finally, Christ became human to act as the mediator between God and men. Wayne G
 
 
 
-[^1]: [Matthew 11.15](https://biblia.com/bible/esv/matthew/11/15)
-[^2]: [John 1.1](https://biblia.com/bible/esv/john/1/1)
-[^3]: [John 8.58](https://biblia.com/bible/esv/john/8/58)
-[^4]: [Exodus 3.14](https://biblia.com/bible/esv/exodus/3/14)
-[^5]: [Hebrews 4.15](https://biblia.com/bible/esv/hebrews/4/15)
-[^6]: [John 8.46](https://biblia.com/bible/esv/john/8/46)
-[^7]: [John 3.16](https://biblia.com/bible/esv/john/3/16)
+[^1]: Matthew 11.15
+[^2]: John 1.1
+[^3]: John 8.58
+[^4]: Exodus 3.14
+[^5]: Hebrews 4.15
+[^6]: John 8.46
+[^7]: John 3.16
 [^8]: Lewis, C. S. *Mere Christianity*. Harpercollins Publishers, 2017.
 [^9]: Grudem, Wayne A. *Systematic Theology*. Zondervan, 2008.
