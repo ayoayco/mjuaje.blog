@@ -22,7 +22,7 @@ for I am God, and there is no other;<br>
 declaring the end from the beginning<br>
 &nbsp;&nbsp;&nbsp;&nbsp;and from ancient times things not yet done,<br>
 saying, 'My counsel shall stand,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;and I will accomplish all my purpose,'”<br>Isaiah‬ ‭46.9-10‬
+&nbsp;&nbsp;&nbsp;&nbsp;and I will accomplish all my purpose,'”<br>Isaiah‬ ‭46:9-10‬
 
 “Our God is in the heavens;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;he does all that he pleases.”<br>
