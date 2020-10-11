@@ -73,16 +73,13 @@ As I’ve mentioned earlier, I use the ESV as my main translation. But I also ch
 
 Bible translations have never been so much accessible as today. And I’m afraid most Christians are not yet taking advantage of this fact. I can imagine William Tyndale, The Father of the English Bible, being frustrated with us.[^3] As I end, let me quote one of my favorite verses:
 
-> The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law. <cite>[Deuteronomy 29.29][deut]</cite>
+> The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.<br>Deuteronomy 29.29
 
 I’m amazed that God could have kept His character a secret, yet He revealed Himself to us. He is under no obligation to do so, yet He did it anyway. And we have access to that through a book. Oh, the simplicity! Yet as we get to know Him through His word, we understand that meditating, studying and memorizing His word is actually a means for us to be conformed to the image of His Son.
 
-[^1]: Or literally, breathed out by God. See [2 Timothy 3.16-17][2-tim].
+[^1]: Or literally, breathed out by God. See 2 Timothy 3.16-17.
 
 [^2]: Although I just learned in the course of writing this article that the Lexham English Bible, which I am trying recently, is more literal than NASB.
-
-[2-tim]: https://biblia.com/bible/esv/2-timothy/3/16-17
-[deut]: https://biblia.com/bible/esv/deuteronomy/29/29
 
 [^3]: Look up William Tyndale's inspiring story [here](https://www.desiringgod.org/messages/always-singing-one-note-a-vernacular-bible).
 
