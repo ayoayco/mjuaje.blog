@@ -9,6 +9,7 @@ layout: default
         </header><!-- .post-header -->
         {% if page.featured_image %}
         <div class="post-thumbnail"><img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{% if page.featured_image_alt %}{{ page.featured_image_alt }}{% else %}{{ page.title }}{% endif %}" /></div>
+        <meta property="og:image" content="{{ site.url }}/{{ page.featured_image }}" />
         {% endif %}
         <div class="post-content inner">
             {{content}}
