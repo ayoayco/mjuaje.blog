@@ -22,6 +22,9 @@
 
     <!-- CSS Styles -->
     <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
+    {% if page.featured_image %}
+        <meta property="og:image" content="{{ site.url }}/{{ page.featured_image }}" />
+    {% endif %}
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
