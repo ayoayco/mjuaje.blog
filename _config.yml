@@ -5,7 +5,7 @@ meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 
+  image: 'authorimage.png'
   greetings: "Hi! I'm M. J. Uaje, a fellow sojourner eagerly waiting for the revelation of the glory of Christ and hoping to share that anticipation with you."
 favicon: 'assets/images/MJUaje_ClearBG.png'
 baseurl: 
