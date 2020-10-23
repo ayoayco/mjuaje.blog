@@ -2,7 +2,7 @@
 layout: post
 title: "Why Study Theology?"
 tags: ["Theology", "Apologetics", "Christian Living"]
-featured_image_thumbnail: assets/images/posts/2020/why-theology.jpg
+featured_image_thumbnail:
 featured_image: assets/images/posts/2020/why-theology.jpg
 featured: true
 hidden: true
