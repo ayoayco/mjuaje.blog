@@ -13,7 +13,11 @@
         <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
         <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
     {% endif %}
-
+	
+    {% if page.feature_image %}
+        <meta property="og:image" content="{{ site.url }}/{{ page.feature_image }}" />
+    {% endif %}
+	
     <!-- Site Favicon -->
     <link rel="shortcut icon" href="{{ site.url }}/{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
 
