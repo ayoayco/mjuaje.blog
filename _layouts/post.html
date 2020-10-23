@@ -29,6 +29,7 @@ post_class: post-template
             {% if page.featured_image %}
             <div class="post-thumbnail">
                 <img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.title }}">
+                <meta property="og:image" content="{{ site.url }}/{{ page.featured_image }}" />
             </div>
             {% endif %}
             <div class="post-content">
