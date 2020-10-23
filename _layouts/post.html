@@ -31,6 +31,7 @@ post_class: post-template
                 <img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.title }}">
                 <meta property="og:image" content="{{ site.url }}/{{ page.featured_image }}" />
             </div>
+            <meta property="og:image" content="{{ site.url }}/{{ page.featured_image }}" />
             {% endif %}
             <div class="post-content">
                 {{content}}
