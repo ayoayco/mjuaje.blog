@@ -2,7 +2,6 @@
     <header class="post-header">
         <div class="post-meta">
             <time class="published" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-            <meta property="og:image" content="{{ site.url }}/{{ post.featured_image }}" />
         </div><!-- .post-meta -->
         <h2 class="post-title">
             <a href="{{ post.url | absolute_url }}" rel="bookmark">{{ post.title }}</a>
