@@ -44,9 +44,9 @@ post_class: post-template
             {% include disqus.html %}
         </article>
         
-        <!--{% if site.mailchimp_url %}-->
-            <!--{% include newsletter-box.html %}-->
-        <!--{% endif %}-->
+        {% if site.mailchimp_url %}
+            {% include newsletter-box.html %}
+        {% endif %}
         
         <section class="read-next inner">
             <h2 class="read-next-title">Read Next</h2>
