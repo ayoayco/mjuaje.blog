@@ -14,10 +14,6 @@
         <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
     {% endif %}
 	
-    {% if page.featured_image %}
-        <meta property="og:image" content="{{ site.url }}/{{ page.featured_image }}" />
-    {% endif %}
-	
     <!-- Site Favicon -->
     <link rel="shortcut icon" href="{{ site.url }}/{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
 
