@@ -10,7 +10,7 @@ author:
 favicon: 'assets/images/MJUaje_ClearBG.png'
 baseurl: 
 production_url: https://mjuaje.com/
-disqus: 'justgoodthemes'
+disqus: 'mjuajeblog'
 mailchimp_url:
 # Add your GA Tracking Id
 ga_analytics: 
