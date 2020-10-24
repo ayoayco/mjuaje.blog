@@ -11,7 +11,7 @@ hidden: true
 
 
 
-I was brought up in a church that believes a Christian can lose his salvation, I think for sensible reasons.  As Christians, it is not uncommon to hear of people who have once professed being a Christian, then after some trials and testings, would renounce their faith and then turn back to their old ways. It is even seen in the New Testament. I remember arguing in my mind as a child to a Baptist pastor who believes in the teaching '*Once saved, always saved*': how about Judas? Would believers to this doctrine really affirm that Judas was saved when clearly he was not? Funny enough though, now I don't believe that a **true** Christian can lose his salvation. But I don't prefer the summative expression 'Once saved, always saved' either. Confused? Read on.<br><br>
+I was brought up in a church that believes a Christian can lose his salvation, I think for sensible reasons.  As Christians, it is not uncommon to hear of people who have once professed being a Christian, then after some trials and testings, would renounce their faith and then turn back to their old ways. It is even seen in the New Testament. I remember arguing in my mind as a child to a Baptist pastor who believes in the teaching '*Once saved, always saved*': how about Judas? Would believers of this doctrine really affirm that Judas was saved when clearly he was not? Funny enough though, now I don't believe that a **true** Christian can lose his salvation. But I don't prefer the summative expression 'Once saved, always saved' either. Confused? Read on.<br><br>
 
 #### On the use of summative expressions
 
@@ -31,7 +31,7 @@ Another strong passage is from the Apostle Paul:
 
 "And we know that for those who love God all things work together for good, for those who are called according to his purpose. For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. And those whom he predestined he also called, and those whom he called he also justified, and **those whom he justified he also glorified.**"<br>Romans 8.28-30, emphasis added
 
-If you love God and are called according to his purpose, the Scriptures promise that you will be glorified; that is, you will share in the glory of God—eternal fellowship with him.  The chain is unbreakable: foreknown, predestined, called, justified and glorified. It is impossible to be justified (declared righteous) and not be glorified. The space would not allow for a full treatment of the topic but I think the [Westminster Confessions of Faith](http://crowncovenantchurch.org/confessions/WestminsterCOF.aspx?QuestionID=17&pageid=0&confession=true&q=Chapter%2017%20-%20Of%20The%20Perseverance%20of%20the%20Saints.) summarizes it accurately.[^4]
+If you love God and are called according to his purpose, the Scriptures promise that you will be glorified; that is, you will share in the glory of God—eternal fellowship with him.  The chain is unbreakable: foreknown, predestined, called, justified and glorified. It is impossible to be justified (declared righteous) and not be glorified. The space would not allow for a full treatment of the topic but I think the [Westminster Confessions of Faith](http://crowncovenantchurch.org/confessions/WestminsterCOF.aspx?QuestionID=17&pageid=0&confession=true&q=Chapter%2017%20-%20Of%20The%20Perseverance%20of%20the%20Saints.) summarizes it accurately.[^4]<br><br>
 
 
 
@@ -43,7 +43,7 @@ One supporting argument that they bring up is the warning passages for believers
 
 If God would be the one to sustain us, then how do we explain the people who backslid, those who seem to got saved and then left the faith later on? I think the Bible answers it plainly:
 
-"They went out from us, but they were not of us; **for if they had been of us, they would have continued with us. But they went out, that it might become plain that they all are not of us.**"<br>1 John 2.19
+"They went out from us, but they were not of us; **for if they had been of us, they would have continued with us. But they went out, that it might become plain that they all are not of us.**"<br>1 John 2.19<br><br>
 
 
 
