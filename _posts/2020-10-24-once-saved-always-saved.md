@@ -51,7 +51,9 @@ If God would be the one to sustain us, then how do we explain the people who bac
 
 Having said all this, I want to echo what both William Mounce and Martyn Lloyd-Jones said: there is a sense in which the emphasis in this discussion is futile. Regardless if you believe in an eternal or conditional security, one thing is ought to happen: **you need to persevere**. If you believe that the Holy Spirit will finish Christ's work in you, then you will persevere. If you believe that the will to persevere lies in yours, then you also ought to persevere.
 
-This is the reason why I don't like the cliché "Once saved, always saved."[^11] As this statement is abused, it is almost always brought up not as a confession of assurance but rather an excuse to live in unrepentant sin. Rather than examining if his faith is real[^12] and is working through love[^13], he would rather turn to his one time profession of faith and utterrance of the sinner's prayer. This isn't what the Bible teaches at all.
+Furthermore, Wayne Grudem gives a pastoral counsel regarding a person who backslides.[^11] If you believe in eternal security, you would have to say to him, "Repent, for you were not saved in the first place. Turn to Jesus now." If you believe in conditional security, on the other hand, you would have to say, "Repent, for you have lost your salvation. Turn to Jesus again." In both cases, the apostate has to repent and turn to Jesus.
+
+This is the reason why I don't like the cliché "Once saved, always saved."[^12] As this statement is abused, it is almost always brought up not as a confession of assurance but rather an excuse to live in unrepentant sin. Rather than examining if his faith is real[^13] and is working through love[^14], he would rather turn to his one time profession of faith and utterrance of the sinner's prayer. This isn't what the Bible teaches at all.
 
 In fact, the Lord's call for his disciples like us is so radical: 
 
@@ -61,9 +63,7 @@ In fact, the Lord's call for his disciples like us is so radical:
 
 "And he said to all, “If anyone would come after me, let him deny himself and take up his cross daily and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake will save it. For what does it profit a man if he gains the whole world and loses or forfeits himself? For whoever is ashamed of me and of my words, of him will the Son of Man be ashamed when he comes in his glory and the glory of the Father and of the holy angels." Luke 9.23-26
 
-"If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple." Luke 14.26
-
-Furthermore, Wayne Grudem gives a pastoral counsel regarding a person who backslides.[^14] If you believe in eternal security, you would have to say to him, "Repent, for you were not saved in the first place. Turn to Jesus now." If you believe in conditional security, on the other hand, you would have to say, "Repent, for you have lost your salvation. Turn to Jesus again." In both cases, the apostate has to repent and turn to Jesus.<br><br>
+"If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple." Luke 14.26<br><br>
 
 
 
@@ -81,8 +81,8 @@ In this post, I argued that true Christians have eternal security, a fruit of Ch
 [^8]: Romans 3.10,12
 [^9]: Romans 3.20
 [^10]: Philippians 1.6
-[^11]: I'm still echoing William Mounce on this one.
-[^12]: 2 Corinthians 13.5
-[^13]: Galatians 5.6
-[^14]: Grudem, Wayne A. *Systematic Theology*. Zondervan, 2008.
+[^11]: Grudem, Wayne A. *Systematic Theology*. Zondervan, 2008.
+[^12]: I'm still echoing William Mounce on this one.
+[^13]: 2 Corinthians 13.5
+[^14]: Galatians 5.6
 [^15]: John 10.28
