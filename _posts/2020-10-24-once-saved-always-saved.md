@@ -11,8 +11,6 @@ hidden: true
 
 
 
-In a previous post, I argued that theology is a practical endeavor. One question I posed is on eternal security of believers. I kind of felt that I opened *a can of worms* by posing such questions, among other theological ones, but did not give an answer for them. So let me address one of those questions here.
-
 I was brought up in a church that believes a believer can lose his salvation, I think for sensible reasons.  As Christians, it is not uncommon to hear of people who have once professed being a Christian, then after some trials and testings, would renounce their faith and then turn back to their old ways. It is even seen in the New Testament. I remember arguing in my mind as a child to a Baptist pastor who believes in the teaching '*Once saved, always saved*': how about Judas? Would believers to this doctrine really affirm that Judas was saved when clearly he was not? Funny enough though, now I don't believe that a **true** Christian can lose his salvation. But I don't prefer the summative expression 'Once saved, always saved' either. Confused? Read on.<br><br>
 
 #### On the use of summative expressions
