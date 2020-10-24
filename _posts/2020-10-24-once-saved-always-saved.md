@@ -69,7 +69,7 @@ In fact, the Lord's call for his disciples like us is so radical:
 
 #### Conclusion
 
-In this post, I argued that true Christians have eternal security, a fruit of Christ's redemtive work. He himself promised that no one can snatch us away from him[^15]. And therefore he alone deserves all the glory and honor for our salvation. This does not mean that a one-time profession of faith is a mark of a disciple, but rather, if we are true Christians, we ought to persevere, for this is the way Christ called his followers: to abandon the world, even our self-interests for heavenly gain—fellowship with him for all eternity.
+In this post, I argued that true Christians have eternal security, a fruit of Christ's redemptive work. He himself promised that no one can snatch us away from him[^15]. And therefore he alone deserves all the glory and honor for our salvation. This does not mean that a one-time profession of faith is a mark of a disciple, but rather, if we are true Christians, we ought to persevere, for this is the way Christ called his followers: to abandon the world, even our self-interests for heavenly gain—fellowship with him for all eternity.
 
 [^1]: The doctrines of grace is summarized by Calvinism as **T**otal depravity, **U**nconditional election, **L**imited atonement, **I**rresistable grace and **P**erseverance of the saints. We are primarily dealing with the last one in this article.
 [^2]: Ephesians 1.4
