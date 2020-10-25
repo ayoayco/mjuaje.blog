@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Once Saved, Always Saved?"
-tags: ["Eternal Security", "Perseverance", "Christian Living"]
+tags: ["Perseverance of the Saints", "Discipleship", "Christian Living"]
 featured_image_thumbnail: assets/images/posts/2020/once-saved-always-saved.jpg
 featured_image: assets/images/posts/2020/once-saved-always-saved.jpg
 featured: true
@@ -23,7 +23,7 @@ In general, slogans are good memory device. It is easy to remember expressions s
 
 #### Perseverance of the Saints
 
-There are a lot of prooftexts of Perseverance of the Saints [POTS], namely Christians, in the New Testament. But I'll present the two strongest ones:
+There are a lot of prooftexts of Perseverance of the Saints (POTS) in the New Testament. But I'll present the two strongest ones. By the way, the Bible refers to the followers of Christ as saints. So when we talk about POTS, we are talking about perseverance of true followers of Christ.
 
 "Jesus said to them, “I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst. But I said to you that you have seen me and yet do not believe. All that the Father gives me will come to me, and whoever comes to me **I will never cast out**. For I have come down from heaven, not to do my own will but the will of him who sent me. And this is the will of him who sent me, that **I should lose nothing of all that he has given me**, but raise it up on the last day. For this is the will of my Father, that everyone who looks on the Son and believes in him should have eternal life, and I will raise him up on the last day.""<br>John 6.35-40, emphasis added
 
@@ -33,29 +33,29 @@ Another strong passage is from the Apostle Paul:
 
 "And we know that for those who love God all things work together for good, for those who are called according to his purpose. For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. And those whom he predestined he also called, and those whom he called he also justified, and **those whom he justified he also glorified.**"<br>Romans 8.28-30, emphasis added
 
-If you love God and are called according to his purpose, the Scriptures promise that you will be glorified; that is, you will share in the glory of God—eternal fellowship with him.  The chain is unbreakable: foreknown, predestined, called, justified and glorified. It is impossible to be justified (declared righteous) and not be glorified. The space would not allow for a full treatment of the topic but I think the [Westminster Confessions of Faith](http://crowncovenantchurch.org/confessions/WestminsterCOF.aspx?QuestionID=17&pageid=0&confession=true&q=Chapter%2017%20-%20Of%20The%20Perseverance%20of%20the%20Saints.) summarizes the doctrine of Perseverance of the Saints well.[^4]<br><br>
+If you love God and are called according to his purpose, the Scriptures promise that you will be glorified; that is, you will share in the glory of God—eternal fellowship with him.  The chain is unbreakable: foreknown, predestined, called, justified and glorified. It is impossible to be justified (declared righteous) and not be glorified. The space would not allow for a full treatment of the topic but I think the [Westminster Confessions of Faith](http://crowncovenantchurch.org/confessions/WestminsterCOF.aspx?QuestionID=17&pageid=0&confession=true&q=Chapter%2017%20-%20Of%20The%20Perseverance%20of%20the%20Saints.) summarizes the doctrine of POTS well.[^4]<br><br>
 
 
 
 #### 'Opposing' verses
 
-As I have recounted earlier, there are well-meaning Christians who oppose the doctrine of Perseverance of the Saints in favor of *conditional* preservation. They bring up verses which they argue teaches that a Christian can lose his salvation such as Hebrews 6.4-6; Matthew 24.13; 2 Peter 2.1.[^5] I have to admit that these verses *seem* to contradict Perseverance of the Saints. The wrong way to approach this tension though is to count the number of verses against each other and accept the side with the most number of verses. This is wrong because ultimately there is no contradiction in the Word of God. It is God-breathed[^6] and therefore perfect. And so we need proper study to resolve this tension and come up with our conviction.
+As I have recounted earlier, there are well-meaning Christians who oppose the doctrine of POTS in favor of *Conditional Preservation*. They bring up verses which they argue teaches that a Christian can lose his salvation such as Hebrews 6.4-6; Matthew 24.13; 2 Peter 2.1.[^5] I have to admit that these verses *seem* to contradict POTS. The wrong way to approach this tension though is to count the number of verses against each other and accept the side with the most number of verses. This is wrong because ultimately there is no contradiction in the Word of God. It is God-breathed[^6] and therefore perfect. And so we need proper study to interpret these verses, resolve this tension and come up with our conviction.
 
-One supporting argument that they bring up is the warning passages for believers to persevere. They argue that these warnings *imply* our ability to endure. I think this argument is problematic though because of the Ten Commandments. The law of God was given by God to humanity[^7] but that does not imply that we can comply by our own ability to it at all. In fact, the Bible says, "None is righteous, no, not one... no one does good, not even one."[^8] The law was given to us for us to realize our sin, "since through the law comes knowledge of sin."[^9] In the same breath, the warning to persevere does not necessarily imply that it is by our power that we would do so, but rather as I have argued before, God is the one who will bring into completion the work that he started in us.[^10]
+One supporting argument that they bring up is the warning passages for believers to persevere. They argue that these warnings *imply* our ability to endure. I think this argument is problematic though because of the Ten Commandments. That is, the law of God was given by God to humanity[^7] but that does not imply that we can comply by our own ability to it at all. Let me repeat that: the fact that we are commanded to conform to the law of God does not mean we can accomplish that on our own. In fact, the Bible says, "None is righteous, no, not one... no one does good, not even one."[^8] The law was given to us for us to realize our sin, "since through the law comes knowledge of sin."[^9] In the same breath, the warning to persevere does not necessarily imply that it is by our power that we would do so, but rather as I have argued before, God is the one who will bring into completion the work that he started in us.[^10]
 
 If God would be the one to sustain us, then how do we explain the people who backslid, those who seem to got saved and then left the faith later on? I think the Bible answers it plainly:
 
 "They went out from us, but they were not of us; **for if they had been of us, they would have continued with us. But they went out, that it might become plain that they all are not of us.**"<br>1 John 2.19<br><br>
 
-
+Yes, the context tells us this pertains to false teachers, but I cannot see why it cannot be applied to anyone who has left the faith.
 
 #### More than the debate
 
-Having said all this, I want to echo what both William Mounce and Martyn Lloyd-Jones said: there is a sense in which the emphasis in this discussion is futile. Regardless if you believe in an eternal or conditional security, one thing is ought to happen: **you need to persevere**. If you believe that the Holy Spirit will finish Christ's work in you, then you will persevere. If you believe that the will to persevere lies in yours, then you also ought to persevere.
+Having said all this, I want to echo what both William Mounce and Martyn Lloyd-Jones said: there is a sense in which the emphasis in this discussion is futile. Regardless if you believe in an Perseverance of the Saints or Conditional Preservation of the Saints, one thing is ought to happen: **you need to persevere**. If you believe that the Holy Spirit will finish Christ's work in you, then you will persevere. If you believe that the will to persevere lies in yours, then you also ought to persevere.
 
-Furthermore, Wayne Grudem gives a pastoral counsel regarding a person who backslides.[^11] If you believe in eternal security, you would have to say to him, "Repent, for you were not saved in the first place. Turn to Jesus now." If you believe in conditional security, on the other hand, you would have to say, "Repent, for you have lost your salvation. Turn to Jesus again." In both cases, the apostate has to repent and turn to Jesus.
+Furthermore, Wayne Grudem gives a pastoral counsel regarding a person who backslides.[^11] If you believe in POTS, you would have to say to him, "Repent, for you were not saved in the first place. Turn to Jesus now." If you believe in Conditional Preservation, on the other hand, you would have to say, "Repent, for you have lost your salvation. Turn to Jesus again." In both cases, the apostate has to repent and turn to Jesus.
 
-This is the reason why I don't like the cliché "Once saved, always saved."[^12] As this statement is abused, it is almost always brought up not as a confession of assurance but rather an excuse to live in unrepentant sin. Rather than examining if his faith is real[^13] and is working through love[^14], he would rather turn to his one time profession of faith and utterrance of the sinner's prayer. This isn't what the Bible teaches at all.
+This is the reason why I don't like the cliché 'Once saved, always saved.'[^12] As this statement is abused, it is almost always brought up not as a confession of assurance but rather an excuse to live in unrepentant sin. Rather than examining if one's faith is real[^13] and is working through love[^14], people who bring up 'Once saved, always saved' would rather turn to his one time profession of faith and utterrance of the sinner's prayer. They claim that since they were saved one time, they must be always have been saved. This isn't what the Bible teaches at all.
 
 In fact, the Lord's call for his disciples like us is so radical: 
 
@@ -71,7 +71,7 @@ In fact, the Lord's call for his disciples like us is so radical:
 
 #### Conclusion
 
-In this post, I argued that true Christians have eternal security, a fruit of Christ's redemptive work. He himself promised that no one can snatch us away from him[^15]. And therefore he alone deserves all the glory and honor for our salvation. This does not mean that a one-time profession of faith is a mark of a disciple, but rather, if we are true Christians, we ought to persevere, for this is the way Christ called his followers: to abandon the world, even our self-interests for heavenly gain—fellowship with him for all eternity.
+In this post, I argued that true Christians will persevere to the end, a fruit of Christ's redemptive work. He himself promised that no one can snatch us away from him[^15]. And therefore he alone deserves all the glory and honor for our salvation. This does not mean that a one-time profession of faith is a mark of a disciple, but rather, if we are true Christians, we ought to persevere, for this is the way Christ called his followers: to abandon the world, even our self-interests for heavenly gain, to enjoy fellowship with him for all eternity.
 
 [^1]: The doctrines of grace is summarized by Calvinism as **T**otal depravity, **U**nconditional election, **L**imited atonement, **I**rresistable grace and **P**erseverance of the saints. We are primarily dealing with the last one in this article.
 [^2]: Ephesians 1.4
