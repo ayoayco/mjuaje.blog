@@ -51,11 +51,11 @@ Or to state it in another way, **they backslid because they were not true Christ
 
 #### More than the debate
 
-Having said all this, I want to echo what both William Mounce and Martyn Lloyd-Jones said: there is a sense in which the emphasis in this discussion is futile. Regardless if you believe in Perseverance of the Saints or Conditional Preservation of the Saints, one thing is ought to happen: **you need to persevere**. If you believe that the Holy Spirit will finish Christ's work in you, then you will persevere. If you believe that the will to persevere lies in yours, then you also ought to persevere.
+Having said all these, I want to echo what both William Mounce and Martyn Lloyd-Jones said: there is a sense in which the emphasis in this discussion is futile. Regardless if you believe in Perseverance of the Saints or Conditional Preservation of the Saints, one thing is ought to happen: **you need to persevere**. If you believe that the Holy Spirit will finish Christ's work in you, then you will persevere. If you believe that the will to persevere lies in yours, then you also ought to persevere.
 
-Furthermore, Wayne Grudem gives a pastoral counsel regarding a person who backslides.[^12] If you believe in POTS, you would have to say to him, "Repent, for you were not saved in the first place. Turn to Jesus now." If you believe in Conditional Preservation, on the other hand, you would have to say, "Repent, for you have lost your salvation. Turn to Jesus again." In both cases, the apostate has to repent and turn to Jesus.
+Furthermore, Wayne Grudem gives a pastoral counsel regarding a person who backslides.[^12] If you believe in POTS, you would have to say to him, "Repent, for you were not saved in the first place. Turn to Jesus now." If you believe in Conditional Preservation on the other hand, you would have to say, "Repent, for you have lost your salvation. Turn to Jesus again." In both cases, the apostate has to repent and turn to Jesus.
 
-This is the reason why I don't like the cliché 'Once saved, always saved.'[^13] As this statement is abused, it is almost always brought up *not* as a confession of assurance but rather an excuse to live in unrepentant sin. Rather than examining if one's faith is real[^14] and is working through love[^15], people who bring up 'Once saved, always saved' would rather turn to his one time profession of faith and utterrance of the sinner's prayer. They claim that since they were saved one time, they must be have always been saved. This isn't what the Bible teaches at all.
+This is the reason why I don't like the cliché 'Once saved, always saved.'[^13] As this statement is abused, it is almost always brought up *not* as a confession of assurance but rather an excuse to live in unrepentant sin. Rather than examining if one's faith is real[^14] and is working through love[^15], people who bring up 'Once saved, always saved' would rather turn to their one time profession of faith and utterrance of the sinner's prayer. They claim that since they were saved one time, they must have always been saved. This isn't what the Bible teaches at all.
 
 In fact, the Lord's call for his disciples like us is so radical: 
 
@@ -72,9 +72,9 @@ Discipleship is total, lifelong and essential to salvation.[^16]
 
 #### Conclusion
 
-In this post, I argued that true Christians will persevere to the end, a fruit of Christ's redemptive work. He himself promised that no one can snatch us away from him[^17]. And therefore he alone deserves all the glory and honor for our salvation. This does not mean that a one-time profession of faith is a mark of a disciple, but rather, if we are true Christians, we ought to persevere, for this is the way Christ called his followers: to abandon the world, even our self-interests for heavenly gain, to enjoy fellowship with him for all eternity.
+In this post, I argued that true Christians will persevere to the end, a fruit of Christ's redemptive work. He himself promised that no one can snatch us away from him[^17]. And therefore he alone deserves all the glory and honor for our salvation. This does not mean that a one-time profession of faith is a mark of a disciple, but rather, if we are true Christians, we ought to persevere for this is the way Christ called his followers: to abandon the world even our self-interests for heavenly gain, to enjoy fellowship with him for all eternity.
 
-[^1]: The doctrines of grace is summarized by Calvinism as **T**otal depravity, **U**nconditional election, **L**imited atonement, **I**rresistable grace and **P**erseverance of the saints. We are primarily dealing with the last one in this article.
+[^1]: The doctrines of grace is summarized by Calvinism as **T**otal depravity, **U**nconditional election, **L**imited atonement, **I**rresistable grace and **P**erseverance of the saints.
 [^2]: Ephesians 1.4
 [^3]: Ephesians 1.13-14
 [^4]: Other relevant verses: Philippians 1.6; John 10.28; Hebrews 9.12
