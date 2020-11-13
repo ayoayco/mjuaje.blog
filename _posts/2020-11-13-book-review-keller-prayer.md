@@ -9,7 +9,7 @@ hidden: true
 
 ---
 
-I almost always write long and that makes it difficult to post consistently. Oftentimes, my writing process involves contemplating on a single idea and then constructing a simple outline. But then when I write the content, more often than not it exceeds 1000 words, which is counter-cultural. Today, we want to get information fast. We including me, want tweetable content without having to wrestle for a 15-minute reading. It's one of the downsides of our generation. We may have everything at our fingertips, but we do not have enough patience to digest information.
+I almost always write long and that makes it difficult to post consistently. Oftentimes, my writing process involves contemplating on a single idea and then constructing a simple outline. But then when I write the content, more often than not it exceeds 1000 words, which is counter-cultural. Today, we want to get information fast. We want tweetable content without having to wrestle for a 15-minute reading. It's one of the downsides of our generation. We may have everything at our fingertips, but we do not have enough patience to digest information.
 
 To have some sort of compromise with our culture, I thought of writing short book reviews. Well, hopefully, it would really be short.
 
