@@ -9,9 +9,9 @@ hidden: true
 
 ---
 
-I almost always write long and that makes it difficult to post consistently. Oftentimes, my writing process involves contemplating on a single idea and then constructing a simple outline. But then when I write the content, oftentimes it exceeds 1000 words.  This habit of mine is counter-cultural. Today, we want to get information fast. We, including me, want tweetable content without having to wrestle for a 15-minute reading. It's one of the downsides of our generation. We may have everything at our fingertips, but we do not have enough patience to digest information.
+I almost always write long and that makes it difficult to post consistently. Oftentimes, my writing process involves contemplating on a single idea and then constructing a simple outline. But then when I write the content, more often than not it exceeds 1000 words, which is counter-cultural. Today, we want to get information fast. We including me, want tweetable content without having to wrestle for a 15-minute reading. It's one of the downsides of our generation. We may have everything at our fingertips, but we do not have enough patience to digest information.
 
-To have some sort of compromise, I thought of writing short book reviews. Well, hopefully, it would really be short.
+To have some sort of compromise with our culture, I thought of writing short book reviews. Well, hopefully, it would really be short.
 
 I'm starting with Tim Keller's book, [Prayer: Experiencing Awe and Intimacy with God](https://www.goodreads.com/book/show/20893347-prayer?ac=1&from_search=true&qid=BqbvkrVI7s&rank=1). On [my Goodreads account](https://www.goodreads.com/user/show/111405284-joel-uaje), I rated this book 4/5 stars and yet it's the first book that came to mind when I thought of doing book reviews. In a nutshell, I both hate and love it.
 
@@ -23,17 +23,21 @@ But then, this is also the book's strength. Call me biased, but I think the sain
 
 Now instead of summarizing its content, I think it would be more fitting to write about what changed in my personal prayer life as a result of reading this book. Spoiler alert!
 
-- ***Pray the Scriptures.*** As also a reinforcement of John Piper's advice, I became more intentional in quoting Scriptures in prayer. This makes sense since we are commanded to pray according to God's will (1 John 5.14-15). And the Word of God is his revealed will. Practically, this would be as simple as praying, "Holy Spirit, teach me your ways; rebuke and correct me; train me in righteousness" (2 Tim 3.16-17). But then this necessitates that we *know* the Scriptures. Indeed, prayer and reading God's word go hand-in-hand.
+- ***Pray the Scriptures.*** Also an advice of John Piper, I became more intentional in quoting Scriptures in prayer. This makes sense since we are commanded to pray according to God's will (1 John 5.14-15). And the Word of God is his revealed will. Practically, this would be as simple as praying, "Holy Spirit, teach me your ways; rebuke and correct me; train me in righteousness" (2 Tim 3.16-17). But then this necessitates that we *know* the Scriptures. Indeed, prayer and reading God's word go hand-in-hand.
 
-- ***Pray to the Trinity.*** There is no one else like the Christian God, the Trinitarian God. While our God is one in being, God is also three persons: Father, Son and Spirit. Each person of the Trinity has his own functions which can be generalized as the Father planning, the Son accomplishing and the Holy Spirit consummating. Hence, we should pray according to this economy. We pray primarily to the Father as is taught by the Lord in his Prayer (Matt 5.8-13). We praise the Son for his life, death and resurrection. We ask the Holy Spirit to sanctify us, keeping us away from sin and producing in us his fruit.
+- ***Pray to the Trinity.*** There is no other god like the Christian God [^2], the Trinitarian God. While our God is one in being, God is also three persons: Father, Son and Spirit. Each person of the Trinity has his own functions which can be generalized as the Father planning, the Son accomplishing and the Holy Spirit consummating. Hence, we should pray according to this economy. We pray primarily to the Father as is taught by the Lord in his famous prayer (Matthew 5.8-13). We praise the Son for his life, death and resurrection. We ask the Holy Spirit to sanctify us, keeping us away from sin and producing in us his fruit (Galatians 5.22-24).
+
 - ***Pray the Psalms.*** I was always curious with the Anglican Psalter, a book comprised of Psalms intended for personal and family devotion. Today, I open my quiet time with a Psalm, meditating on it and then using it as the spring board for meditation and "freestyle" prayer.
+
 - ***Meditate.*** I try not to pray empty repetitive prayers that qualify as Pharisaical babbling. Rather, as I read the Bible, I reflect of my sins related to the passage and confess them to God. I praise God together with the psalmist, or present my petitions related to the biblical text to God. Martin Luther comes strong with this. He regularly used the Ten Commandments for prayer, a practice that Lutherans adapt until today.
+
 - ***Pray twice a day.*** Now this is something that comes from Keller's own practice. It is common for faithful Christians to pray once a day in their quiet time, oftentimes in the morning. But Keller practiced praying in the night also together with his wife, and I plan to do the same if God would allow me to be married. But of course, I already am applying it today alone.
-- ***Read Augustine's Confessions.*** As part of my evening prayer, I read a short chapter from Augustine's Confessions and then use it as a spring board for prayer, same thing with the use of Psalms. Of course, this book is not infallible but I find his reflections deeply thought-provoking that encourages me to reflect with my life as well.<br><br>
+
+- ***Read Augustine's Confessions.*** As part of my evening prayer, I read a short chapter from Augustine's Confessions and then use it as a spring board for prayer, similar with my use of Psalms. Of course, this book is not infallible but I find his reflections deeply thought-provoking that encourages me to reflect with my life as well.<br><br>
 
 ### Quotes
 
-Since I promised writing below 1000 words,[^2] I have to end this shortly. But maybe the best way to close this is by quoting the book itself:
+Since I promised writing below 1000 words,[^3] I have to end this shortly. But maybe the best way to close this is by quoting the book itself:
 
 "In the summer after I was treated successfully for thyroid cancer, I made four practical changes to my life of private devotion. First, I took several months to go through the Psalms, summarizing each one. That enabled me to begin praying through the Psalms regularly, getting through all of them several times a year. The second thing I did was always to put in a time of meditation as a transitional discipline between my Bible reading and my time of prayer. Third, I did all I could to pray morning and evening rather than only in the morning. Fourth, I began praying with greater expectation." *p. 17*
 
@@ -55,7 +59,8 @@ Since I promised writing below 1000 words,[^2] I have to end this shortly. But m
 
 "The apostle John writes that if we confess our sins, God is “faithful and just and will forgive us our sins” (1 John 1:9). It doesn’t say that if we confess our sins, God forgives because he is merciful (though that is, of course, also true). It says he forgives when we confess because he is just. In other words, it would be unjust of God to deny us forgiveness because Jesus earned our acceptance, as John goes on to immediately point out. “If anybody does sin, we have an advocate with the Father—Jesus Christ, the Righteous One. He is the atoning sacrifice for our sins” (1 John 2:1–2a). All those who are in Christ must and will be forgiven. Why? He has taken the punishment and paid the debt for all their sins. It would be unjust of God—and unfaithful to his covenant with us—to receive two payments on the same debt, so it would be unjust for him not to forgive us. This profound assurance and security transforms repentance from being a means of atoning for sin into a means of honoring God and realigning our lives with him." *p. 209*
 
+###### Footnotes
 
-
-[^1]: I don't mean saints in the Roman Catholic sense, but rather saints of the New Testament sense, the believers. See Eph 1.1.
-[^2]: Below 1000 words, excluding the quotes, that is.
+[^1]: I don't mean saints in the Roman Catholic sense, but rather saints of the New Testament sense, the believers. See Ephesians 1.1.
+[^2]: Well of course, the so-called 'gods' of other religions do not really exist. But my point is, the doctrine of the Trinity is unique to Christianity, which separates us even from the Jews.
+[^3]: Below 1000 words, excluding the quotes, that is.
