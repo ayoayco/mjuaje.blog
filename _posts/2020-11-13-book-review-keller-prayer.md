@@ -13,7 +13,7 @@ I almost always write long and that makes it difficult to post consistently. Oft
 
 To have some sort of compromise with our culture, I thought of writing short book reviews. Well, hopefully, it would really be short.
 
-I'm starting with Tim Keller's book, [Prayer: Experiencing Awe and Intimacy with God](https://www.goodreads.com/book/show/20893347-prayer?ac=1&from_search=true&qid=BqbvkrVI7s&rank=1). On [my Goodreads account](https://www.goodreads.com/user/show/111405284-joel-uaje), I rated this book 4/5 stars and yet it's the first book that came to mind when I thought of doing book reviews. In a nutshell, I both hate and love it.
+I'm starting with Tim Keller's book, [Prayer: Experiencing Awe and Intimacy with God](https://www.goodreads.com/book/show/20893347-prayer?ac=1&from_search=true&qid=BqbvkrVI7s&rank=1). On [my Goodreads account](https://www.goodreads.com/user/show/111405284-joel-uaje), I rated this book 4/5 stars and yet it's the first book that came to mind when I thought of doing a book review. In a nutshell, I both hate and love it.
 
 Okay, let me elaborate that. I don't particularly like it for unjustifiable reasons, *haha*. It's just my pet peeve. The reason being Keller's writing which felt to me that I am not reading Keller, but that he was just echoing what the saints[^1] of old were teaching including Augustine, Martin Luther and John Calvin, among others. This is a not preferable to people like me who is exposed to reading them. Why read it from Keller if I can read directly from Calvin's Institutes?
 
