@@ -60,14 +60,6 @@ Here in the Philippines, we have superstitions about Good Friday and Black Satur
 I am aware that some of us may have lost a loved one during this season of COVID19 pandemic. It may seem that this disease triumphed on destroying our families, our dreams, and our celebrations. But I think it is timely that we are experiencing such turmoil during this Holy Week so that we can be reminded about the real power of Christ’s resurrection. He demonstrated that death is not the end. Therefore, do not fear. For death has been defeated. God’s not Dead. He is alive!
 
 
-
-[^1]: 1 Corinthians 15.14
-[^2]: Acts 2.24
-[^3]: John 11.25-26
-[^4]: Matthew 12.40
-
-
-
 ###### All Scriptures are taken from the NIV.
 
 ###### This post is part of a four-part series on the gospel message. See the link for the other article/s below:
@@ -77,3 +69,10 @@ I am aware that some of us may have lost a loved one during this season of COVID
 [Gospel: The Death of Jesus](/death-of-jesus)
 
 [Gospel: Faith and Repentance](/faith-and-repentance)
+
+###### Footnotes
+
+[^1]: 1 Corinthians 15.14
+[^2]: Acts 2.24
+[^3]: John 11.25-26
+[^4]: Matthew 12.40
