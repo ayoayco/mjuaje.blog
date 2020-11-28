@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Theology of Sin (Part 2)"
-tags: ["Sin", "Sanctification", "Holy Spirit"]
+tags: ["Sin", "Sanctification", "HolySpirit"]
 featured_image_thumbnail: assets/images/posts/2020/theology-of-sin.jpg
 featured_image: assets/images/posts/2020/theology-of-sin.jpg
 ---
@@ -101,6 +101,8 @@ The Christian walk is far from easy. Some sins we easily stop doing at the point
 ##### This two-part blog is a fruit of a message shared in B1G Alabang Singles’ Lounge Online with the series on Respectable Sins. I am indebted to three John’s of the faith for having a better understanding of sin and sanctification. I find their thoughts systematic but more importantly pastoral, as the Lord used their resources for my own sanctification. Listed below are the books I consulted in order of influence, from greatest to least:
 
 ##### John Piper: Future Grace<br>John Owen: The Holy Spirit<br>John Calvin: Institutes of the Christian Religion
+
+###### Footnotes
 
 [^1]: Romans 8.1
 [^2]: 2 Corinthians 5.17 NIV84
