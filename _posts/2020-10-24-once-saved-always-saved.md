@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Once Saved, Always Saved?"
-tags: ["Perseverance of the Saints", "Discipleship", "Christian Living"]
+tags: ["PerseveranceOfTheSaints", "Discipleship", "ChristianLiving"]
 featured_image_thumbnail: assets/images/posts/2020/once-saved-always-saved.jpg
 featured_image: assets/images/posts/2020/once-saved-always-saved.jpg
 featured: true
@@ -73,6 +73,8 @@ Discipleship is total, lifelong and essential to salvation.[^16]
 #### Conclusion
 
 In this post, I argued that true Christians will persevere to the end, a fruit of Christ's redemptive work. He himself promised that no one can snatch us away from him[^17]. And therefore he alone deserves all the glory and honor for our salvation. This does not mean that a one-time profession of faith is a mark of a disciple, but rather, if we are true Christians, we ought to persevere for this is the way Christ called his followers: to abandon the world even our self-interests for heavenly gain, to enjoy fellowship with him for all eternity.
+
+###### Footnotes
 
 [^1]: The doctrines of grace is summarized by Calvinism as **T**otal depravity, **U**nconditional election, **L**imited atonement, **I**rresistable grace and **P**erseverance of the saints.
 [^2]: Ephesians 1.4
