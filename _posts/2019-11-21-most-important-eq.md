@@ -62,8 +62,12 @@ For every sin on Him was laid<br>
 Here in the death of Christ I live."<br>
 *In Christ Alone - Keith Getty / Stuart Townend*
 
-[^1]: Isaiah 64.6: literally 'menstrual cloth'
-[^2]: Romans 3.23
+
 
 
 ###### This article was previously published by the author of this site as a Facebook status. Slight changes were done here.
+
+###### Footnotes
+
+[^1]: Isaiah 64.6: literally 'menstrual cloth'
+[^2]: Romans 3.23
