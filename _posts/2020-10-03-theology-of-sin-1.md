@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Theology of Sin (Part 1)"
-tags: ["Sin", "Sanctification", "Holy Spirit"]
+tags: ["Sin", "Sanctification", "HolySpirit"]
 featured_image_thumbnail: assets/images/posts/2020/theology-of-sin.jpg
 featured_image: assets/images/posts/2020/theology-of-sin.jpg
 featured: true
@@ -65,6 +65,8 @@ Iniquity, transgression and sin. Ultimately, a violation of a moral code is a tr
 Going back to Exodus 34.6-7, what it really says is God forgives all these types of sin: whether it be a missing the mark of a moral code, a breach of trust, a rebellion, a crookedness or corruption. God does forgive. But the mystery is the next part of the verse: “forgiving iniquity and transgression and sin, but *who will by no means clear the guilty*”. In a single sentence, a tension is shown between God’s forgiveness and his justice. He forgives and yet does not let go of sin unpunished.
 
 In the [second](/theology-of-sin-2) part of this blog, we will resolve this tension and see its implication to Christians like us.
+
+###### Footnotes
 
 [^1]: Ecclesiastes 3.11
 [^2]: Packer, J. I. *On Personal Holiness* [[Video](https://www.youtube.com/watch?v=EDnk-jSz7Z4&t=1563s)].
