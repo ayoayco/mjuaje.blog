@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gospel: Faith and Repentance"
-tags: [Gospel, Easter, Evangelism]
+tags: [Gospel, HolyWeek, Evangelism]
 featured_image_thumbnail: assets/images/posts/2020/faith-repentance.jpg
 featured_image: assets/images/posts/2020/faith-repentance.jpg
 
