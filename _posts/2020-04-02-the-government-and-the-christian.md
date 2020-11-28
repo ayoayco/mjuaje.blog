@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Government and the Christian"
-tags: [Government, "Society"]
+tags: ["Government", "Society"]
 featured_image_thumbnail: assets/images/posts/2020/government.png
 featured_image: assets/images/posts/2020/government.png
 featured: true
@@ -94,6 +94,8 @@ We also should not just look at this pragmatically, but the means should justify
 ###### Photo credits to David Photography.
 
 ###### This article was previously published by the author of this site as a Facebook status. Slight changes were done here.
+
+###### Footnotes
 
 [^1]: I will be bringing up a lot of Bible verses. I've done my best to use them in their proper context. So I then leave it to the reader to verify if this is so.
 [^2]: Grudem, W. A. (2008). *Systematic theology*. Grand Rapids, MI: Zondervan.
