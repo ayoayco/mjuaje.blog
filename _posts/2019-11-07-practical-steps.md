@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Practical Steps on Building the Discipline of Daily Bible Reading'
-tags: ['Bible Study']
+tags: [BibleStudy]
 featured_image_thumbnail: assets/images/posts/2019/practical-steps.jpg
 featured_image: assets/images/posts/2019/practical-steps.jpg
 ---
@@ -94,6 +94,8 @@ It is indeed not easy to read the Bible every day, that is why we need to ask Go
 ###### All Scriptures are quoted from the ESV.
 
 ###### This article was previously published by the author of this site as a Facebook note. Revised June 2, 2020.
+
+###### Footnotes
 
 [^1]: The BibleProject, for the most part, has sound explanations. However, I object to their view of atonement and hell. So I am recommending it with some reservations. As always, practice discernment just like the noble Bereans.
 [^2]: Psalm 51.17
