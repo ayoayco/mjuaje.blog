@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: Prayer by Tim Keller"
-tags: ["Book Review", "Prayer"]
+tags: ["BookReview", "Prayer"]
 featured_image_thumbnail: assets/images/posts/2020/prayer-keller.jpg
 featured_image: assets/images/posts/2020/prayer-keller.jpg
 featured: true
