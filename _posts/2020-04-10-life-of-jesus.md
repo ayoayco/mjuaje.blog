@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gospel: The Life of Jesus"
-tags: [Gospel, "Holy Week", Evangelism]
+tags: [Gospel, "HolyWeek", Evangelism]
 featured_image_thumbnail: assets/images/posts/2020/life-jesus.jpg
 featured_image: assets/images/posts/2020/life-jesus.jpg
 ---
@@ -55,7 +55,7 @@ Finally, Christ became human to act as the mediator between God and men. Wayne G
 
 [Gospel: Faith and Repentance](/faith-and-repentance)
 
-
+###### Footnotes
 
 [^1]: Matthew 11.15
 [^2]: John 1.1
