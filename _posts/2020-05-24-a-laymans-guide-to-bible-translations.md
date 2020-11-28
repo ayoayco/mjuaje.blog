@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Layman's Guide to Bible Translations"
-tags: ["Bible Study"]
+tags: ["Translations", "Apologetics"]
 featured_image_thumbnail: assets/images/posts/2020/a-laymans-guide.jpg
 featured_image: assets/images/posts/2020/a-laymans-guide.jpg
 featured: true
@@ -76,6 +76,8 @@ Bible translations have never been so much accessible as today. And I’m afraid
 > The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.<br>Deuteronomy 29.29
 
 I’m amazed that God could have kept His character a secret, yet He revealed Himself to us. He is under no obligation to do so, yet He did it anyway. And we have access to that through a book. Oh, the simplicity! Yet as we get to know Him through His word, we understand that meditating, studying and memorizing His word is actually a means for us to be conformed to the image of His Son.
+
+###### Footnotes
 
 [^1]: Or literally, breathed out by God. See 2 Timothy 3.16-17.
 
