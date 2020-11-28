@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gospel: The Resurrection of Jesus"
-tags: [Gospel, "Holy Week", Evangelism]
+tags: [Gospel, "HolyWeek", Evangelism]
 featured_image_thumbnail: assets/images/posts/2020/resurrection-jesus.jpg
 featured_image: assets/images/posts/2020/resurrection-jesus.jpg
 
