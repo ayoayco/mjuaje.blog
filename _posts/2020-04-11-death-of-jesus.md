@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gospel: The Death of Jesus"
-tags: [Gospel, "Holy Week", Evangelism]
+tags: [Gospel, "HolyWeek", Evangelism]
 featured_image_thumbnail: assets/images/posts/2020/death-jesus.jpg
 featured_image: assets/images/posts/2020/death-jesus.jpg
 ---
@@ -57,9 +57,10 @@ Finally, the death of Jesus Christ demonstrates God’s law. It does not nullify
 
 This is the amazing love that God wants to bestow to us. It is the grace that we don’t deserve. This is the hope that Christianity offers to the world and I hope you may seek, find and possess today.
 
+###### Footnotes
 
 [^1]: Lewis, C. S. *Miracles*. Harpercollins Publishers, 2012.
-[^2]: “Did Jesus Exist? Searching for Evidence Beyond the Bible.” *Biblical Archaeology Society*, 14 Nov. 2019, www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/did-jesus-exist/.
+[^2]: [“Did Jesus Exist? Searching for Evidence Beyond the Bible.”](www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/did-jesus-exist/) *Biblical Archaeology Society*, 14 Nov. 2019.
 [^3]: Sproul, R. C. *Truth of the Cross, The*. Ligonier Ministries, 2016.
 
 
