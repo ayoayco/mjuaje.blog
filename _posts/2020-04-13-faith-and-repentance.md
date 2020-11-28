@@ -59,9 +59,9 @@ Soli Deo Gloria.
 [^1]: Romans 3.23
 [^2]: John 3.16
 [^3]: Romans 6.23
-[^4]: Ferguson, Sinclair. “Faith and Repentance.” *Ligonier Ministries*, 1 June 2013, www.ligonier.org/learn/articles/faith-and-repentance/.
+[^4]: Ferguson, Sinclair. [“Faith and Repentance.”](www.ligonier.org/learn/articles/faith-and-repentance/) *Ligonier Ministries*, 1 June 2013.
 [^5]: John 20.31
-[^6]: Packer, J. I. “Regeneration.” *Monergism*, www.monergism.com/thethreshold/articles/onsite/packer_regen.html.
+[^6]: Packer, J. I. [“Regeneration.”](www.monergism.com/thethreshold/articles/onsite/packer_regen.html) *Monergism*.
 [^7]: Acts 16.31
 [^8]: Romans 10.9-10
 [^9]: Sproul, R. C. *Pleasing God*. Ligonier Ministries, 2018.
