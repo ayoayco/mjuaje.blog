@@ -41,16 +41,6 @@ Through the power of the Holy Spirit, a regenerated man’s life will result in 
 
 Soli Deo Gloria.
 
-[^1]: Romans 3.23
-[^2]: John 3.16
-[^3]: Romans 6.23
-[^4]: Ferguson, Sinclair. “Faith and Repentance.” *Ligonier Ministries*, 1 June 2013, www.ligonier.org/learn/articles/faith-and-repentance/.
-[^5]: John 20.31
-[^6]: Packer, J. I. “Regeneration.” *Monergism*, www.monergism.com/thethreshold/articles/onsite/packer_regen.html.
-[^7]: Acts 16.31
-[^8]: Romans 10.9-10
-[^9]: Sproul, R. C. *Pleasing God*. Ligonier Ministries, 2018.
-[^10]: Ephesians 2.8-9 CSB
 
 
 
@@ -63,3 +53,17 @@ Soli Deo Gloria.
 [Gospel: The Death of Jesus](/death-of-jesus)
 
 [Gospel: The Resurrection of Jesus](/resurrection-of-jesus)
+
+###### Footnotes
+
+[^1]: Romans 3.23
+[^2]: John 3.16
+[^3]: Romans 6.23
+[^4]: Ferguson, Sinclair. “Faith and Repentance.” *Ligonier Ministries*, 1 June 2013, www.ligonier.org/learn/articles/faith-and-repentance/.
+[^5]: John 20.31
+[^6]: Packer, J. I. “Regeneration.” *Monergism*, www.monergism.com/thethreshold/articles/onsite/packer_regen.html.
+[^7]: Acts 16.31
+[^8]: Romans 10.9-10
+[^9]: Sproul, R. C. *Pleasing God*. Ligonier Ministries, 2018.
+[^10]: Ephesians 2.8-9 CSB
+
